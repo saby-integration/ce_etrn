@@ -651,7 +651,18 @@
                 "02023637-7868-4a5f-8576-835a76e0c9ba"
               ],
               "0",
-              "0",
+              "1",
+              [
+                "0",
+                [
+                  "0",
+                  [
+                    "\"B\"",
+                    "1"
+                  ],
+                  "0"
+                ]
+              ],
               "0",
               "\"ДобавитьИзФайлаНаДиске\"",
               [
@@ -872,7 +883,18 @@
                 "02023637-7868-4a5f-8576-835a76e0c9ba"
               ],
               "0",
-              "0",
+              "1",
+              [
+                "0",
+                [
+                  "0",
+                  [
+                    "\"B\"",
+                    "1"
+                  ],
+                  "0"
+                ]
+              ],
               "0",
               "\"ДобавитьФайлПоШаблону\"",
               [
@@ -943,7 +965,7 @@
                 "0",
                 "\"\""
               ],
-              "1",
+              "0",
               [
                 "\"Pattern\""
               ],
@@ -1085,7 +1107,18 @@
                 "02023637-7868-4a5f-8576-835a76e0c9ba"
               ],
               "0",
-              "0",
+              "1",
+              [
+                "0",
+                [
+                  "0",
+                  [
+                    "\"B\"",
+                    "1"
+                  ],
+                  "0"
+                ]
+              ],
               "0",
               "\"ДобавитьФайлСоСканера\"",
               [
@@ -2513,7 +2546,18 @@
                 "02023637-7868-4a5f-8576-835a76e0c9ba"
               ],
               "0",
-              "0",
+              "1",
+              [
+                "0",
+                [
+                  "0",
+                  [
+                    "\"B\"",
+                    "1"
+                  ],
+                  "0"
+                ]
+              ],
               "0",
               "\"ФормаОткрыть\"",
               [
@@ -2726,7 +2770,18 @@
                 "02023637-7868-4a5f-8576-835a76e0c9ba"
               ],
               "0",
-              "0",
+              "1",
+              [
+                "0",
+                [
+                  "0",
+                  [
+                    "\"B\"",
+                    "1"
+                  ],
+                  "0"
+                ]
+              ],
               "0",
               "\"Занять\"",
               [
@@ -2797,7 +2852,7 @@
                 "0",
                 "\"\""
               ],
-              "1",
+              "0",
               [
                 "\"Pattern\""
               ],
@@ -3021,7 +3076,7 @@
                 "0",
                 "\"\""
               ],
-              "1",
+              "0",
               [
                 "\"Pattern\""
               ],
@@ -3245,7 +3300,7 @@
                 "0",
                 "\"\""
               ],
-              "1",
+              "0",
               [
                 "\"Pattern\""
               ],
@@ -3388,7 +3443,18 @@
               ],
               "0",
               "0",
-              "0",
+              "1",
+              [
+                "0",
+                [
+                  "0",
+                  [
+                    "\"B\"",
+                    "1"
+                  ],
+                  "0"
+                ]
+              ],
               "1",
               "\"ПодменюПечать\"",
               [
@@ -3693,7 +3759,18 @@
                   "02023637-7868-4a5f-8576-835a76e0c9ba"
                 ],
                 "0",
-                "0",
+                "1",
+                [
+                  "0",
+                  [
+                    "0",
+                    [
+                      "\"B\"",
+                      "1"
+                    ],
+                    "0"
+                  ]
+                ],
                 "0",
                 "\"ПечатьСоШтампом\"",
                 [
@@ -7134,7 +7211,18 @@
               "02023637-7868-4a5f-8576-835a76e0c9ba"
             ],
             "0",
-            "0",
+            "1",
+            [
+              "0",
+              [
+                "0",
+                [
+                  "\"B\"",
+                  "1"
+                ],
+                "0"
+              ]
+            ],
             "0",
             "\"НастроитьСинхронизацию\"",
             [
@@ -7348,7 +7436,18 @@
             ],
             "0",
             "0",
-            "0",
+            "1",
+            [
+              "0",
+              [
+                "0",
+                [
+                  "\"B\"",
+                  "1"
+                ],
+                "0"
+              ]
+            ],
             "1",
             "\"ФормаГруппаДополнительно\"",
             [
@@ -8924,7 +9023,18 @@
                 "02023637-7868-4a5f-8576-835a76e0c9ba"
               ],
               "0",
-              "0",
+              "1",
+              [
+                "0",
+                [
+                  "0",
+                  [
+                    "\"B\"",
+                    "1"
+                  ],
+                  "0"
+                ]
+              ],
               "0",
               "\"ФормаОсвободить\"",
               [
@@ -8995,7 +9105,7 @@
                 "0",
                 "\"\""
               ],
-              "1",
+              "0",
               [
                 "\"Pattern\""
               ],
@@ -9137,7 +9247,18 @@
                 "02023637-7868-4a5f-8576-835a76e0c9ba"
               ],
               "0",
-              "0",
+              "1",
+              [
+                "0",
+                [
+                  "0",
+                  [
+                    "\"B\"",
+                    "1"
+                  ],
+                  "0"
+                ]
+              ],
               "0",
               "\"ФормаОбновитьИзФайлаНаДиске\"",
               [
@@ -10278,7 +10399,18 @@
             ],
             "0",
             "0",
-            "0",
+            "1",
+            [
+              "0",
+              [
+                "0",
+                [
+                  "\"B\"",
+                  "1"
+                ],
+                "0"
+              ]
+            ],
             "1",
             "\"ФормаГруппаНастройки\"",
             [
@@ -12788,7 +12920,18 @@
               "02023637-7868-4a5f-8576-835a76e0c9ba"
             ],
             "0",
-            "0",
+            "1",
+            [
+              "0",
+              [
+                "0",
+                [
+                  "\"B\"",
+                  "1"
+                ],
+                "0"
+              ]
+            ],
             "0",
             "\"ПоказыватьСлужебныеФайлы\"",
             [
@@ -30537,7 +30680,7 @@
           "0",
           "0",
           [
-            "#base64:77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxTZXR0aW5ncyB4bWxucz0iaHR0cDovL3Y4LjFjLnJ1LzguMS9kYXRhLWNvbXBvc2l0aW9uLXN5c3RlbS9zZXR0aW5ncyIgeG1sbnM6ZGNzY29yPSJodHRwOi8vdjguMWMucnUvOC4xL2RhdGEtY29tcG9zaXRpb24tc3lzdGVtL2NvcmUiIHhtbG5zOnN0eWxlPSJodHRwOi8vdjguMWMucnUvOC4xL2RhdGEvdWkvc3R5bGUiIHhtbG5zOnN5cz0iaHR0cDovL3Y4LjFjLnJ1LzguMS9kYXRhL3VpL2ZvbnRzL3N5c3RlbSIgeG1sbnM6djg9Imh0dHA6Ly92OC4xYy5ydS84LjEvZGF0YS9jb3JlIiB4bWxuczp2OHVpPSJodHRwOi8vdjguMWMucnUvOC4xL2RhdGEvdWkiIHhtbG5zOndlYj0iaHR0cDovL3Y4LjFjLnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93ZWIiIHhtbG5zOndpbj0iaHR0cDovL3Y4LjFjLnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93aW5kb3dzIiB4bWxuczp4cz0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiPg0KCTxvdXRwdXRQYXJhbWV0ZXJzLz4NCjwvU2V0dGluZ3M+"
+            "#base64:77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxTZXR0aW5ncyB4bWxucz0iaHR0cDovL3Y4LjFjLnJ1LzguMS9kYXRhLWNvbXBvc2l0aW9uLXN5c3RlbS9zZXR0aW5ncyIgeG1sbnM6ZGNzY29yPSJodHRwOi8vdjguMWMucnUvOC4xL2RhdGEtY29tcG9zaXRpb24tc3lzdGVtL2NvcmUiIHhtbG5zOnN0eWxlPSJodHRwOi8vdjguMWMucnUvOC4xL2RhdGEvdWkvc3R5bGUiIHhtbG5zOnN5cz0iaHR0cDovL3Y4LjFjLnJ1LzguMS9kYXRhL3VpL2ZvbnRzL3N5c3RlbSIgeG1sbnM6djg9Imh0dHA6Ly92OC4xYy5ydS84LjEvZGF0YS9jb3JlIiB4bWxuczp2OHVpPSJodHRwOi8vdjguMWMucnUvOC4xL2RhdGEvdWkiIHhtbG5zOndlYj0iaHR0cDovL3Y4LjFjLnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93ZWIiIHhtbG5zOndpbj0iaHR0cDovL3Y4LjFjLnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93aW5kb3dzIiB4bWxuczp4cz0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4="
           ]
         ],
         [
