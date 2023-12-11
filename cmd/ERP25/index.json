@@ -1,0 +1,478 @@
+{
+  "Catalog": {
+    "Saby_ВидыУпаковки": {
+      "Catalog.json": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\Catalog.json",
+      "Catalog.mgr.1c": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\Catalog.mgr.1c",
+      "Catalog.obj.1c": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\Catalog.obj.1c",
+      "CatalogForm": {
+        "ФормаЭлемента": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\CatalogForm\\ФормаЭлемента\\Form.json",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\CatalogForm\\ФормаЭлемента\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\CatalogForm\\ФормаЭлемента\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\CatalogForm\\ФормаЭлемента\\Form.props803.json"
+        },
+        "ФормаСписка": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\CatalogForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\CatalogForm\\ФормаСписка\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\CatalogForm\\ФормаСписка\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\CatalogForm\\ФормаСписка\\Form.props803.json",
+          "Form.obj.1c": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\CatalogForm\\ФормаСписка\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\Catalog\\Saby_ВидыУпаковки\\CatalogForm\\ФормаСписка\\Form.commands803.json"
+        }
+      }
+    },
+    "Saby_ДокументыТрН": {
+      "Catalog.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\Catalog.json",
+      "CatalogForm": {
+        "ФормаСписка": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаСписка\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаСписка\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаСписка\\Form.props803.json"
+        },
+        "ФормаЭлемента": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаЭлемента\\Form.json",
+          "Form.obj.1c": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаЭлемента\\Form.obj.1c",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаЭлемента\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаЭлемента\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаЭлемента\\Form.props803.json"
+        },
+        "ФормаВыбора": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаВыбора\\Form.json",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаВыбора\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаВыбора\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаВыбора\\Form.props803.json",
+          "Form.commands803.json": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаВыбора\\Form.commands803.json",
+          "Form.obj.1c": "etrn\\base\\Catalog\\Saby_ДокументыТрН\\CatalogForm\\ФормаВыбора\\Form.obj.1c"
+        }
+      }
+    },
+    "Saby_ОпасныеГрузы": {
+      "Catalog.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\Catalog.json",
+      "Catalog.mgr.1c": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\Catalog.mgr.1c",
+      "Catalog.obj.1c": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\Catalog.obj.1c",
+      "CatalogForm": {
+        "ФормаЭлемента": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаЭлемента\\Form.json",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаЭлемента\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаЭлемента\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаЭлемента\\Form.props803.json"
+        },
+        "ФормаСписка": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаСписка\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаСписка\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаСписка\\Form.props803.json",
+          "Form.obj.1c": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаСписка\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаСписка\\Form.commands803.json"
+        },
+        "ФормаВыбора": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаВыбора\\Form.json",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаВыбора\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаВыбора\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_ОпасныеГрузы\\CatalogForm\\ФормаВыбора\\Form.props803.json"
+        }
+      }
+    },
+    "Saby_СторонаДокумента": {
+      "Catalog.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\Catalog.json",
+      "Catalog.mgr.1c": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\Catalog.mgr.1c",
+      "Catalog.obj.1c": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\Catalog.obj.1c",
+      "CatalogForm": {
+        "ФормаВыбора": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаВыбора\\Form.json",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаВыбора\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаВыбора\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаВыбора\\Form.props803.json"
+        },
+        "ФормаСписка": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаСписка\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаСписка\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаСписка\\Form.props803.json"
+        },
+        "ФормаЭлемента": {
+          "Form.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаЭлемента\\Form.json",
+          "Form.form803.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаЭлемента\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаЭлемента\\Form.obj.1c",
+          "Form.elements803.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаЭлемента\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Catalog\\Saby_СторонаДокумента\\CatalogForm\\ФормаЭлемента\\Form.props803.json"
+        }
+      }
+    },
+    "Saby_ТранспортнаяНакладнаяПрисоединенныеФайлы": {
+      "Catalog.json": "etrn\\base\\Catalog\\Saby_ТранспортнаяНакладнаяПрисоединенныеФайлы\\Catalog.json",
+      "Catalog.mgr.1c": "etrn\\base\\Catalog\\Saby_ТранспортнаяНакладнаяПрисоединенныеФайлы\\Catalog.mgr.1c",
+      "Catalog.obj.1c": "etrn\\base\\Catalog\\Saby_ТранспортнаяНакладнаяПрисоединенныеФайлы\\Catalog.obj.1c"
+    },
+    "Валюты": {
+      "Catalog.json": "etrn\\src\\ERP25\\Catalog\\Валюты\\Catalog.json"
+    },
+    "ИдентификаторыОбъектовМетаданных": {
+      "Catalog.json": "etrn\\src\\ERP25\\Catalog\\ИдентификаторыОбъектовМетаданных\\Catalog.json"
+    },
+    "Пользователи": {
+      "Catalog.json": "etrn\\src\\ERP25\\Catalog\\Пользователи\\Catalog.json"
+    },
+    "ТипыТранспортныхСредств": {
+      "Catalog.json": "etrn\\src\\ERP25\\Catalog\\ТипыТранспортныхСредств\\Catalog.json"
+    },
+    "ТомаХраненияФайлов": {
+      "Catalog.json": "etrn\\src\\ERP25\\Catalog\\ТомаХраненияФайлов\\Catalog.json"
+    },
+    "ТранспортныеСредства": {
+      "Catalog.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\Catalog.json",
+      "CatalogForm": {
+        "ФормаВыбора": {
+          "Form.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаВыбора\\Form.json",
+          "Form.form803.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаВыбора\\Form.form803.json",
+          "Form.elements803.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаВыбора\\Form.elements803.json",
+          "Form.props803.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаВыбора\\Form.props803.json"
+        },
+        "ФормаСписка": {
+          "Form.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаСписка\\Form.form803.json",
+          "Form.elements803.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаСписка\\Form.elements803.json",
+          "Form.props803.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаСписка\\Form.props803.json"
+        },
+        "ФормаЭлемента": {
+          "Form.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаЭлемента\\Form.json",
+          "Form.form803.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаЭлемента\\Form.form803.json",
+          "Form.props803.json": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаЭлемента\\Form.props803.json",
+          "Form.obj.1c": "etrn\\src\\ERP25\\Catalog\\ТранспортныеСредства\\CatalogForm\\ФормаЭлемента\\Form.obj.1c"
+        }
+      }
+    }
+  },
+  "CommonCommand": {
+    "Saby_ПрисоединенныеФайлы.json": "etrn\\base\\CommonCommand\\Saby_ПрисоединенныеФайлы.json",
+    "Saby_ПрисоединенныеФайлы.obj.1c": "etrn\\base\\CommonCommand\\Saby_ПрисоединенныеФайлы.obj.1c"
+  },
+  "CommonForm": {
+    "Saby_ОшибкиПоДокументам": {
+      "Form.json": "etrn\\base\\CommonForm\\Saby_ОшибкиПоДокументам\\Form.json",
+      "Form.elements803.json": "etrn\\base\\CommonForm\\Saby_ОшибкиПоДокументам\\Form.elements803.json",
+      "Form.form803.json": "etrn\\base\\CommonForm\\Saby_ОшибкиПоДокументам\\Form.form803.json",
+      "Form.obj.1c": "etrn\\base\\CommonForm\\Saby_ОшибкиПоДокументам\\Form.obj.1c",
+      "Form.props803.json": "etrn\\base\\CommonForm\\Saby_ОшибкиПоДокументам\\Form.props803.json"
+    }
+  },
+  "CommonModule": {
+    "Saby_РаботаСПрисоединеннымиФайламиПовтИсп": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\Saby_РаботаСПрисоединеннымиФайламиПовтИсп\\CommonModule.json",
+      "CommonModule.obj.1c": "etrn\\base\\CommonModule\\Saby_РаботаСПрисоединеннымиФайламиПовтИсп\\CommonModule.obj.1c"
+    },
+    "Saby_ТНОбщегоНазначенияСервер": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\Saby_ТНОбщегоНазначенияСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "etrn\\base\\CommonModule\\Saby_ТНОбщегоНазначенияСервер\\CommonModule.obj.1c"
+    },
+    "Saby_ОбщегоНазначенияКлиентСервер": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\Saby_ОбщегоНазначенияКлиентСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "etrn\\base\\CommonModule\\Saby_ОбщегоНазначенияКлиентСервер\\CommonModule.obj.1c"
+    },
+    "Saby_ТНОбщегоНазначенияКлиент": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\Saby_ТНОбщегоНазначенияКлиент\\CommonModule.json",
+      "CommonModule.obj.1c": "etrn\\base\\CommonModule\\Saby_ТНОбщегоНазначенияКлиент\\CommonModule.obj.1c"
+    },
+    "Saby_ТНЗагрузкаСервер": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\Saby_ТНЗагрузкаСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "etrn\\base\\CommonModule\\Saby_ТНЗагрузкаСервер\\CommonModule.obj.1c"
+    },
+    "Saby_ТНВыгрузкаСервер": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\Saby_ТНВыгрузкаСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "etrn\\base\\CommonModule\\Saby_ТНВыгрузкаСервер\\CommonModule.obj.1c"
+    },
+    "ОбщегоНазначенияКлиентСервер": {
+      "CommonModule.json": "etrn\\src\\ERP25\\CommonModule\\ОбщегоНазначенияКлиентСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "etrn\\src\\ERP25\\CommonModule\\ОбщегоНазначенияКлиентСервер\\CommonModule.obj.1c"
+    },
+    "РаботаСФайлами": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\РаботаСФайлами\\CommonModule.json",
+      "CommonModule.obj.1c": "etrn\\base\\CommonModule\\РаботаСФайлами\\CommonModule.obj.1c"
+    },
+    "РаботаСФайламиСлужебный": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\РаботаСФайламиСлужебный\\CommonModule.json",
+      "CommonModule.obj.1c": "etrn\\base\\CommonModule\\РаботаСФайламиСлужебный\\CommonModule.obj.1c"
+    },
+    "Saby_ТНОбщегоНазначенияКлиентСервер": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\Saby_ТНОбщегоНазначенияКлиентСервер\\CommonModule.json",
+      "CommonModule.obj.1c": "etrn\\base\\CommonModule\\Saby_ТНОбщегоНазначенияКлиентСервер\\CommonModule.obj.1c"
+    }
+  },
+  "CommonPicture": {
+    "Saby_Телефон.bin": "etrn\\base\\CommonPicture\\Saby_Телефон.bin",
+    "Saby_Телефон.json": "etrn\\base\\CommonPicture\\Saby_Телефон.json",
+    "Saby_Часы.bin": "etrn\\base\\CommonPicture\\Saby_Часы.bin",
+    "Saby_Часы.json": "etrn\\base\\CommonPicture\\Saby_Часы.json",
+    "Saby_СостояниеЗавершеноПоложительно.bin": "etrn\\base\\CommonPicture\\Saby_СостояниеЗавершеноПоложительно.bin",
+    "Saby_СостояниеЗавершеноПоложительно.json": "etrn\\base\\CommonPicture\\Saby_СостояниеЗавершеноПоложительно.json",
+    "Saby_СостояниеЗавершеноОтрицательно.bin": "etrn\\base\\CommonPicture\\Saby_СостояниеЗавершеноОтрицательно.bin",
+    "Saby_СостояниеЗавершеноОтрицательно.json": "etrn\\base\\CommonPicture\\Saby_СостояниеЗавершеноОтрицательно.json",
+    "Saby_СостояниеОшибка.bin": "etrn\\base\\CommonPicture\\Saby_СостояниеОшибка.bin",
+    "Saby_СостояниеОшибка.json": "etrn\\base\\CommonPicture\\Saby_СостояниеОшибка.json",
+    "Saby_ИзменитьНастройки.bin": "etrn\\base\\CommonPicture\\Saby_ИзменитьНастройки.bin",
+    "Saby_ИзменитьНастройки.json": "etrn\\base\\CommonPicture\\Saby_ИзменитьНастройки.json",
+    "Saby_Направление.bin": "etrn\\base\\CommonPicture\\Saby_Направление.bin",
+    "Saby_Направление.json": "etrn\\base\\CommonPicture\\Saby_Направление.json",
+    "КоллекцияПиктограммФайлов.json": "etrn\\src\\ERP25\\CommonPicture\\КоллекцияПиктограммФайлов.json",
+    "Saby_АктивныйТитул.bin": "etrn\\base\\CommonPicture\\Saby_АктивныйТитул.bin",
+    "Saby_АктивныйТитул.json": "etrn\\base\\CommonPicture\\Saby_АктивныйТитул.json",
+    "Saby_НеактивныйТитул.bin": "etrn\\base\\CommonPicture\\Saby_НеактивныйТитул.bin",
+    "Saby_НеактивныйТитул.json": "etrn\\base\\CommonPicture\\Saby_НеактивныйТитул.json",
+    "Saby_ТекущийТитул.bin": "etrn\\base\\CommonPicture\\Saby_ТекущийТитул.bin",
+    "Saby_ТекущийТитул.json": "etrn\\base\\CommonPicture\\Saby_ТекущийТитул.json"
+  },
+  "DataProcessor": {
+    "Saby_РаботаСФайлами": {
+      "DataProcessor.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\DataProcessor.json",
+      "Form": {
+        "ПрисоединенныеФайлы": {
+          "Form.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.json",
+          "Form.form803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.commands803.json",
+          "Form.elements803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.elements803.json",
+          "Form.params803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.params803.json",
+          "Form.props803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.props803.json"
+        },
+        "ПрисоединенныйФайл": {
+          "Form.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.json",
+          "Form.form803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.commands803.json",
+          "Form.elements803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.elements803.json",
+          "Form.params803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.params803.json",
+          "Form.props803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.props803.json"
+        },
+        "РедактированиеТекстовогоФайла": {
+          "Form.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.json",
+          "Form.form803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.commands803.json",
+          "Form.elements803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.elements803.json",
+          "Form.params803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.params803.json",
+          "Form.props803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.props803.json"
+        },
+        "ФормаВозвратаФайла": {
+          "Form.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.json",
+          "Form.form803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.commands803.json",
+          "Form.elements803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.elements803.json",
+          "Form.params803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.params803.json",
+          "Form.props803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.props803.json"
+        },
+        "ГруппаФайлов": {
+          "Form.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ГруппаФайлов\\Form.json",
+          "Form.form803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ГруппаФайлов\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ГруппаФайлов\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ГруппаФайлов\\Form.commands803.json",
+          "Form.elements803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ГруппаФайлов\\Form.elements803.json",
+          "Form.params803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ГруппаФайлов\\Form.params803.json",
+          "Form.props803.json": "etrn\\base\\DataProcessor\\Saby_РаботаСФайлами\\Form\\ГруппаФайлов\\Form.props803.json"
+        }
+      }
+    }
+  },
+  "Document": {
+    "Saby_ТранспортнаяНакладная": {
+      "Document.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\Document.json",
+      "Document.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\Document.obj.1c",
+      "Document.mgr.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\Document.mgr.1c",
+      "DocumentForm": {
+        "ФормаДокумента": {
+          "Form.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\Form.json",
+          "Form.form803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\Form.commands803.json",
+          "Form.props803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\Form.props803.json"
+        },
+        "ФормаСписка": {
+          "Form.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаСписка\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаСписка\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаСписка\\Form.commands803.json",
+          "Form.elements803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаСписка\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаСписка\\Form.props803.json"
+        },
+        "ФормаЗаменыВодителяИлиТС": {
+          "Form.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаЗаменыВодителяИлиТС\\Form.json",
+          "Form.form803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаЗаменыВодителяИлиТС\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаЗаменыВодителяИлиТС\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаЗаменыВодителяИлиТС\\Form.commands803.json",
+          "Form.params803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаЗаменыВодителяИлиТС\\Form.params803.json",
+          "Form.props803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаЗаменыВодителяИлиТС\\Form.props803.json"
+        },
+        "ФормаИзмененияСогласованияСтоимости": {
+          "Form.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаИзмененияСогласованияСтоимости\\Form.json",
+          "Form.form803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаИзмененияСогласованияСтоимости\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаИзмененияСогласованияСтоимости\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаИзмененияСогласованияСтоимости\\Form.commands803.json",
+          "Form.elements803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаИзмененияСогласованияСтоимости\\Form.elements803.json",
+          "Form.params803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаИзмененияСогласованияСтоимости\\Form.params803.json",
+          "Form.props803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаИзмененияСогласованияСтоимости\\Form.props803.json"
+        },
+        "ФормаПереадресовка": {
+          "Form.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаПереадресовка\\Form.json",
+          "Form.form803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаПереадресовка\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаПереадресовка\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаПереадресовка\\Form.commands803.json",
+          "Form.params803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаПереадресовка\\Form.params803.json",
+          "Form.props803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаПереадресовка\\Form.props803.json"
+        },
+        "ФормаВыбораТипов": {
+          "Form.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВыбораТипов\\Form.json",
+          "Form.form803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВыбораТипов\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВыбораТипов\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВыбораТипов\\Form.props803.json",
+          "Form.commands803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВыбораТипов\\Form.commands803.json",
+          "Form.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВыбораТипов\\Form.obj.1c"
+        },
+        "ФормаНастроекТранспортнойНакладной": {
+          "Form.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастроекТранспортнойНакладной\\Form.json",
+          "Form.form803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастроекТранспортнойНакладной\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастроекТранспортнойНакладной\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастроекТранспортнойНакладной\\Form.props803.json",
+          "Form.commands803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастроекТранспортнойНакладной\\Form.commands803.json",
+          "Form.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастроекТранспортнойНакладной\\Form.obj.1c"
+        },
+        "ФормаВодителя": {
+          "Form.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВодителя\\Form.json",
+          "Form.form803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВодителя\\Form.form803.json",
+          "Form.props803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВодителя\\Form.props803.json",
+          "Form.commands803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВодителя\\Form.commands803.json",
+          "Form.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаВодителя\\Form.obj.1c"
+        },
+        "ФормаНастройкиПериода": {
+          "Form.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастройкиПериода\\Form.json",
+          "Form.form803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастройкиПериода\\Form.form803.json",
+          "Form.props803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастройкиПериода\\Form.props803.json",
+          "Form.commands803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастройкиПериода\\Form.commands803.json",
+          "Form.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаНастройкиПериода\\Form.obj.1c"
+        },
+        "ФормаТранспортногоСредства": {
+          "Form.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаТранспортногоСредства\\Form.json",
+          "Form.form803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаТранспортногоСредства\\Form.form803.json",
+          "Form.elements803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаТранспортногоСредства\\Form.elements803.json",
+          "Form.params803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаТранспортногоСредства\\Form.params803.json",
+          "Form.props803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаТранспортногоСредства\\Form.props803.json",
+          "Form.commands803.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаТранспортногоСредства\\Form.commands803.json",
+          "Form.obj.1c": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\DocumentForm\\ФормаТранспортногоСредства\\Form.obj.1c"
+        }
+      },
+      "Template": {
+        "ФЛК.bin": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\Template\\ФЛК.bin",
+        "ФЛК.json": "etrn\\base\\Document\\Saby_ТранспортнаяНакладная\\Template\\ФЛК.json"
+      }
+    }
+  },
+  "InformationRegister": {
+    "Saby_ДвоичныеДанныеФайлов": {
+      "InformationRegister.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegister.json",
+      "InformationRegister.mgr.1c": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegister.mgr.1c",
+      "InformationRegisterForm": {
+        "ФормаЗаписи": {
+          "Form.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаЗаписи\\Form.json",
+          "Form.form803.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаЗаписи\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаЗаписи\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаЗаписи\\Form.commands803.json",
+          "Form.elements803.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаЗаписи\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаЗаписи\\Form.props803.json"
+        },
+        "ФормаСписка": {
+          "Form.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаСписка\\Form.json",
+          "Form.form803.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаСписка\\Form.form803.json",
+          "Form.obj.1c": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаСписка\\Form.obj.1c",
+          "Form.commands803.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаСписка\\Form.commands803.json",
+          "Form.elements803.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаСписка\\Form.elements803.json",
+          "Form.props803.json": "etrn\\base\\InformationRegister\\Saby_ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаСписка\\Form.props803.json"
+        }
+      }
+    },
+    "Saby_ДанныеТитулов": {
+      "InformationRegister.json": "etrn\\base\\InformationRegister\\Saby_ДанныеТитулов\\InformationRegister.json",
+      "InformationRegister.mgr.1c": "etrn\\base\\InformationRegister\\Saby_ДанныеТитулов\\InformationRegister.mgr.1c"
+    }
+  },
+  "Subsystem": {
+    "SABY": {
+      "Subsystem.json": "src\\ERP25\\Subsystem\\SABY\\Subsystem.json",
+      "Subsystem": {
+        "ЭТрН": {
+          "Subsystem.json": "etrn\\src\\ERP25\\Subsystem\\SABY\\Subsystem\\ЭТрН\\Subsystem.json"
+        }
+      }
+    }
+  },
+  "Constant": {
+    "Saby_ИспользоватьЭТрН.json": "etrn\\base\\Constant\\Saby_ИспользоватьЭТрН.json",
+    "Saby_ХранитьПечатныеФормыВБД.json": "etrn\\base\\Constant\\Saby_ХранитьПечатныеФормыВБД.json"
+  },
+  "Enum": {
+    "Saby_ВидыТС": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_ВидыТС\\Enum.json"
+    },
+    "Saby_ВладелецОбъектаОтгрузки": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_ВладелецОбъектаОтгрузки\\Enum.json",
+      "Enum.obj.1c": "etrn\\base\\Enum\\Saby_ВладелецОбъектаОтгрузки\\Enum.obj.1c"
+    },
+    "Saby_ГруппыУпаковки": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_ГруппыУпаковки\\Enum.json",
+      "Enum.obj.1c": "etrn\\base\\Enum\\Saby_ГруппыУпаковки\\Enum.obj.1c"
+    },
+    "Saby_ДоступныеДействия": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_ДоступныеДействия\\Enum.json"
+    },
+    "Saby_КлассыОпасностиГрузов": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_КлассыОпасностиГрузов\\Enum.json",
+      "Enum.obj.1c": "etrn\\base\\Enum\\Saby_КлассыОпасностиГрузов\\Enum.obj.1c"
+    },
+    "Saby_КодыОграниченийПроездаЧерезТуннели": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_КодыОграниченийПроездаЧерезТуннели\\Enum.json",
+      "Enum.obj.1c": "etrn\\base\\Enum\\Saby_КодыОграниченийПроездаЧерезТуннели\\Enum.obj.1c"
+    },
+    "Saby_МетодОпределенияМассы": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_МетодОпределенияМассы\\Enum.json",
+      "Enum.obj.1c": "etrn\\base\\Enum\\Saby_МетодОпределенияМассы\\Enum.obj.1c"
+    },
+    "Saby_Направление": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_Направление\\Enum.json",
+      "Enum.obj.1c": "etrn\\base\\Enum\\Saby_Направление\\Enum.obj.1c"
+    },
+    "Saby_РолиКонтрагентов": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_РолиКонтрагентов\\Enum.json",
+      "Enum.obj.1c": "etrn\\base\\Enum\\Saby_РолиКонтрагентов\\Enum.obj.1c"
+    },
+    "Saby_ТипГруза": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_ТипГруза\\Enum.json"
+    },
+    "Saby_ТипТитулаЭтрН": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_ТипТитулаЭтрН\\Enum.json",
+      "Enum.obj.1c": "etrn\\base\\Enum\\Saby_ТипТитулаЭтрН\\Enum.obj.1c"
+    },
+    "Saby_ТипыВладенияТС": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_ТипыВладенияТС\\Enum.json",
+      "Enum.obj.1c": "etrn\\base\\Enum\\Saby_ТипыВладенияТС\\Enum.obj.1c"
+    },
+    "Saby_ТипыДокумента": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_ТипыДокумента\\Enum.json",
+      "Enum.obj.1c": "etrn\\base\\Enum\\Saby_ТипыДокумента\\Enum.obj.1c"
+    },
+    "Saby_ЮрФизЛицо": {
+      "Enum.json": "etrn\\base\\Enum\\Saby_ЮрФизЛицо\\Enum.json"
+    },
+	"СтатусыИзвлеченияТекстаФайлов": {
+      "Enum.json": "etrn\\src\\ERP25\\Enum\\СтатусыИзвлеченияТекстаФайлов\\Enum.json"
+    },
+    "ТипыКонтактнойИнформации": {
+      "Enum.json": "etrn\\src\\ERP25\\Enum\\ТипыКонтактнойИнформации\\Enum.json"
+    },
+    "ТипыХраненияФайлов": {
+      "Enum.json": "etrn\\src\\ERP25\\Enum\\ТипыХраненияФайлов\\Enum.json"
+    }
+  },
+  "FunctionalOption": {
+    "Saby_ИспользоватьЭтрН.json": "etrn\\src\\ERP25\\FunctionalOption\\Saby_ИспользоватьЭтрН.json"
+  },
+  "version.bin": "version.bin"
+}
