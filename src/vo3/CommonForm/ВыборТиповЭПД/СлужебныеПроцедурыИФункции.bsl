@@ -1,0 +1,10 @@
+
+#Область include_etrn_src_vo3_CommonModule_ОпределениеМодуляКода
+#КонецОбласти // include_etrn_src_vo3_CommonModule_ОпределениеМодуляКода
+
+#Область include_etrn_src_vo3_CommonModule_ОпределениеМодуляКодаКлиент
+#КонецОбласти // include_etrn_src_vo3_CommonModule_ОпределениеМодуляКодаКлиент
+
+#Область include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиент_ЗаписатьИПродолжить
+#КонецОбласти // include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиент_ЗаписатьИПродолжить
+

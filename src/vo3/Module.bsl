@@ -1,0 +1,40 @@
+
+Функция МодульКода(ИмяМодуля)
+	
+	Возврат ЭтотОбъект;
+	
+КонецФункции
+
+Функция МодульКодаКлиент(ИмяМодуля)
+	
+	Возврат ЭтотОбъект;
+	
+КонецФункции
+
+Функция ОбъектОбработки()
+	
+	Возврат ЭтотОбъект;
+	
+КонецФункции
+
+#Область include_etrn_src_vo3_CommonModule_ВыполнениеФункцииНаСервере
+#КонецОбласти // etrn_src_vo3_CommonModule_ВыполнениеФункцииНаСервере
+
+#Область include_etrn_base_Enum_ТипТитулаЭтрН_Enum
+#КонецОбласти // include_etrn_base_Enum_ТипТитулаЭтрН_Enum
+
+#Область include_etrn_src_vo3_CommonModule_ЗначениеМетаданных
+#КонецОбласти // include_etrn_src_vo3_CommonModule_ЗначениеМетаданных
+
+#Область include_etrn_base_Document_ТранспортнаяНакладная_DocumentMgr
+#КонецОбласти // include_etrn_base_Document_ТранспортнаяНакладная_DocumentMgr
+
+#Область include_etrn_base_CommonModule_ТНОбщегоНазначенияСервер_CommonModule
+#КонецОбласти // include_etrn_base_CommonModule_ТНОбщегоНазначенияСервер_CommonModule
+
+#Область include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_CommonModule
+#КонецОбласти // include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_CommonModule
+
+#Область include_etrn_base_InformationRegister_ДанныеТитулов_InformationRegisterMgr
+#КонецОбласти // include_etrn_base_InformationRegister_ДанныеТитулов_InformationRegisterMgr
+
