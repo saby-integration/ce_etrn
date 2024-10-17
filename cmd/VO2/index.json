@@ -1,0 +1,108 @@
+{
+    "Области include":
+    {
+        "etrn_base_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_СлужебныеПроцедурыИФункции": "etrn_src_vo3_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_СлужебныеПроцедурыИФункции",
+        "etrn_base_CommonModule_ОпределениеМодуляКода": "etrn_base_empty",
+        "etrn_base_CommonModule_ОпределениеМодуляКодаКлиент": "etrn_base_empty",
+        "etrn_base_CommonModule_ОпределениеМодуляКодаКлиентСервер": "etrn_base_empty",
+        "etrn_base_CommonModule_ВыполнениеФункцииНаСервере": "etrn_base_empty",
+        "etrn_base_CommonModule_ЗначениеМетаданных": "etrn_base_empty",
+        "etrn_base_CommonModule_ЗначениеПеречисления": "etrn_src_vo3_CommonModule_ЗначениеПеречисления",
+        "etrn_base_CommonModule_ОбъектОбработки": "etrn_base_empty",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияКлиент_ИмяФормыОбработки": "etrn_src_vo2_CommonModule_ИмяФормыОбработки",
+        "etrn_base_CommonForm_ОтветственныйЭПД_СлужебныеПроцедурыИФункции": "etrn_src_vo3_CommonForm_ОтветственныйЭПД_СлужебныеПроцедурыИФункции",
+        "etrn_base_CommonForm_ОрганизацииЭПД_СлужебныеПроцедурыИФункции": "etrn_src_vo3_CommonForm_ОрганизацииЭПД_СлужебныеПроцедурыИФункции",
+        "etrn_base_CommonForm_ТранспортноеСредствоЭПД_СлужебныеПроцедурыИФункции": "etrn_src_vo3_CommonForm_ТранспортноеСредствоЭПД_СлужебныеПроцедурыИФункции",
+        "etrn_base_Document_ТранспортнаяНакладная_DocumentForm_ФормаДинамическихТитулов_СлужебныеПроцедурыИФункции": "etrn_src_vo3_Document_ТранспортнаяНакладная_DocumentForm_ФормаДинамическихТитулов_СлужебныеПроцедурыИФункции",
+        "etrn_src_vo3_CommonModule_ВыполнениеФункцииНаСервере": "etrn_base_CommonModule_ВыполнениеФункцииНаСервере",
+        "etrn_base_CommonModule_КартинкаИнтерфейса": "etrn_base_empty",
+        "etrn_base_Catalog_ОпасныеГрузы_СлужебныеПроцедурыИФункции": "etrn_src_vo3_Catalog_ОпасныеГрузы_СлужебныеПроцедурыИФункции",
+        "etrn_base_Catalog_ВидыУпаковки_СлужебныеПроцедурыИФункции": "etrn_src_vo3_Catalog_ВидыУпаковки_СлужебныеПроцедурыИФункции",
+        "etrn_base_InformationRegister_ДанныеТитулов_ПолучениеДанныхТитулов": "etrn_src_vo3_InformationRegister_ДанныеТитулов_ПолучениеДанныхТитулов",
+        "etrn_base_InformationRegister_ДанныеТитулов_СлужебныеПроцедурыИФункции": "etrn_src_vo3_InformationRegister_ДанныеТитулов_СлужебныеПроцедурыИФункции",
+        "core_base_Криптография_МенеджерыКриптографииКлиент": "core_base_Криптография_МенеджерыКриптографииКлиентОбработка",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияСервер_ЗаполнениеНаОснованииИНИ": "etrn_base_empty",
+        "etrn_src_vo3_CommonModule_ТНОбщегоНазначенияСервер_ЗаполнениеНаОснованииИНИ": "etrn_base_CommonModule_ТНОбщегоНазначенияСервер_ЗаполнениеНаОснованииИНИ",
+        "etrn_base_CommonModule_КартинкаИнтерфейсаКлиент": "etrn_base_empty",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_РаботаСоСтроками": "etrn_src_vo3_CommonModule_ТНОбщегоНазначенияКлиентСервер_РаботаСоСтроками"
+
+    },
+    "Form":
+    {
+        "Saby_ТранспортнаяНакладная":
+        {
+            "Form.json": "etrn\\src\\vo3\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\Form.json",
+            "Form.form803.json": "etrn\\src\\vo2\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\Form.form803.json",
+            "Form.elements803.json": "etrn\\src\\vo3\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\Form.elements803.json",
+            "Form.obj.bsl": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\Form.obj.bsl"
+        },
+        "Saby_ТранспортнаяНакладнаяДТ":
+        {
+            "Form.json": "etrn\\src\\vo3\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\Form.json",
+            "Form.form803.json": "etrn\\src\\vo2\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\Form.form803.json",
+            "Form.obj.bsl": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\Form.obj.bsl",
+            "Form.commands803.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\Form.commands803.json",
+            "Form.params803.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\Form.params803.json",
+            "Form.props803.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\Form.props803.json",
+            "Form.elements803.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\Form.elements803.json"
+        },
+        "Saby_ОрганизацииЭПД":
+        {
+            "Form.json": "etrn\\src\\vo3\\CommonForm\\ОрганизацииЭПД\\Form.json",
+            "Form.form803.json": "etrn\\src\\vo2\\CommonForm\\Saby_ОрганизацииЭПД\\Form.form803.json",
+            "Form.props803.json": "etrn\\base\\CommonForm\\Saby_ОрганизацииЭПД\\Form.props803.json",
+            "Form.commands803.json": "etrn\\base\\CommonForm\\Saby_ОрганизацииЭПД\\Form.commands803.json",
+            "Form.elements803.json": "etrn\\base\\CommonForm\\Saby_ОрганизацииЭПД\\Form.elements803.json",
+            "Form.obj.bsl": "etrn\\base\\CommonForm\\Saby_ОрганизацииЭПД\\Form.obj.bsl"
+        },
+        "Saby_ОтветственныйЭПД":
+        {
+            "Form.json": "etrn\\src\\vo3\\CommonForm\\ОтветственныйЭПД\\Form.json",
+            "Form.form803.json": "etrn\\src\\vo2\\CommonForm\\Saby_ОтветственныйЭПД\\Form.form803.json",
+            "Form.elements803.json": "etrn\\base\\CommonForm\\Saby_ОтветственныйЭПД\\Form.elements803.json",
+            "Form.props803.json": "etrn\\base\\CommonForm\\Saby_ОтветственныйЭПД\\Form.props803.json",
+            "Form.commands803.json": "etrn\\base\\CommonForm\\Saby_ОтветственныйЭПД\\Form.commands803.json",
+            "Form.obj.bsl": "etrn\\base\\CommonForm\\Saby_ОтветственныйЭПД\\Form.obj.bsl"
+        },
+        "Saby_ВыборТиповЭПД":
+        {
+            "Form.json": "etrn\\src\\vo3\\CommonForm\\ВыборТиповЭПД\\Form.json",
+            "Form.form803.json": "etrn\\src\\vo2\\CommonForm\\Saby_ВыборТиповЭПД\\Form.form803.json",
+            "Form.elements803.json": "etrn\\base\\CommonForm\\Saby_ВыборТиповЭПД\\Form.elements803.json",
+            "Form.props803.json": "etrn\\base\\CommonForm\\Saby_ВыборТиповЭПД\\Form.props803.json",
+            "Form.commands803.json": "etrn\\base\\CommonForm\\Saby_ВыборТиповЭПД\\Form.commands803.json",
+            "Form.obj.bsl": "etrn\\base\\CommonForm\\Saby_ВыборТиповЭПД\\Form.obj.bsl"
+        },
+        "Saby_ТранспортноеСредствоЭПД":
+        {
+            "Form.json": "etrn\\src\\vo3\\CommonForm\\ТранспортноеСредствоЭПД\\Form.json",
+            "Form.form803.json": "etrn\\src\\vo2\\CommonForm\\ТранспортноеСредствоЭПД\\Form.form803.json",
+            "Form.elements803.json": "etrn\\base\\CommonForm\\ТранспортноеСредствоЭПД\\Form.elements803.json",
+            "Form.props803.json": "etrn\\base\\CommonForm\\ТранспортноеСредствоЭПД\\Form.props803.json",
+            "Form.commands803.json": "etrn\\base\\CommonForm\\ТранспортноеСредствоЭПД\\Form.commands803.json",
+            "Form.obj.bsl": "etrn\\base\\CommonForm\\ТранспортноеСредствоЭПД\\Form.obj.bsl"
+        },
+        "Saby_ДокументыЭПД":
+        {
+            "Form.json": "etrn\\src\\vo3\\Form\\Saby_ДокументыЭПД\\Form.json",
+            "Form.form803.json": "etrn\\src\\vo2\\Form\\Saby_ДокументыЭПД\\Form.form803.json",
+            "Form.elements803.json": "etrn\\src\\vo3\\Form\\Saby_ДокументыЭПД\\Form.elements803.json",
+            "Form.obj.bsl": "etrn\\src\\vo3\\Form\\Saby_ДокументыЭПД\\Form.obj.bsl"
+        },
+		"ОпасныйГрузЭПД":
+        {
+            "Form.json": "etrn\\src\\vo3\\Form\\ОпасныйГрузЭПД\\Form.json",
+            "Form.form803.json": "etrn\\src\\vo2\\Form\\ОпасныйГрузЭПД\\Form.form803.json",
+            "Form.elements803.json": "etrn\\src\\vo3\\Form\\ОпасныйГрузЭПД\\Form.elements803.json",
+            "Form.obj.bsl": "etrn\\src\\vo3\\Form\\ОпасныйГрузЭПД\\Form.obj.bsl"
+        },
+        "Раздел_ЭПД":
+        {
+            "Form.form803.json": "etrn\\src\\vo2\\Form\\Раздел_ЭПД\\Form.form803.json",
+            "Form.json": "etrn\\src\\vo2\\Form\\Раздел_ЭПД\\Form.json",
+            "Form.obj.bsl": "etrn\\src\\vo2\\Form\\Раздел_ЭПД\\Form.obj.bsl",
+            "Form.props803.json": "etrn\\src\\vo2\\Form\\Раздел_ЭПД\\Form.props803.json",
+            "Form.elements803.json": "etrn\\src\\vo2\\Form\\Раздел_ЭПД\\Form.elements803.json"
+        }
+    }
+}

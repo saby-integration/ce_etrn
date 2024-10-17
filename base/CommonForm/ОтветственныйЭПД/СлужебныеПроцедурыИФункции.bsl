@@ -1,0 +1,29 @@
+
+&НаСервере
+Процедура НастроитьФормуДляСтарыхПлатформ()
+	
+	Возврат;
+	
+КонецПроцедуры
+
+#Область include_etrn_base_CommonModule_ОпределениеМодуляКода
+#КонецОбласти // include_etrn_base_CommonModule_ОпределениеМодуляКода
+
+#Область include_etrn_base_CommonModule_ОпределениеМодуляКодаКлиент
+#КонецОбласти // include_etrn_base_CommonModule_ОпределениеМодуляКодаКлиент
+
+#Область include_etrn_base_CommonModule_ВыполнениеФункцииНаСервере 
+#КонецОбласти // include_etrn_base_CommonModule_ВыполнениеФункцииНаСервере
+
+#Область include_etrn_base_CommonModule_ЗначениеМетаданных
+#КонецОбласти // include_etrn_base_CommonModule_ЗначениеМетаданных
+
+#Область include_etrn_base_CommonModule_КартинкаИнтерфейса //&НаКлиенте
+#КонецОбласти // include_etrn_base_CommonModule_КартинкаИнтерфейса //&НаКлиенте
+
+#Область include_etrn_base_CommonModule_КартинкаИнтерфейсаСервер
+#КонецОбласти // include_etrn_base_CommonModule_КартинкаИнтерфейсаСервер
+
+#Область include_etrn_base_CommonModule_ТНОбщегоНазначенияСервер_ЗаполнениеНаОснованииИНИ //&НаКлиенте
+#КонецОбласти // include_etrn_base_CommonModule_ТНОбщегоНазначенияСервер_ЗаполнениеНаОснованииИНИ //&НаКлиенте
+
