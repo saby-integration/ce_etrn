@@ -1,0 +1,28 @@
+
+#Область include_etrn_src_vo3_CommonModule_ОпределениеМодуляКода
+#КонецОбласти // include_etrn_src_vo3_CommonModule_ОпределениеМодуляКода
+
+#Область include_etrn_src_vo3_CommonModule_ОпределениеМодуляКодаКлиент
+#КонецОбласти // include_etrn_src_vo3_CommonModule_ОпределениеМодуляКодаКлиент
+
+#Область include_etrn_src_vo3_CommonModule_ВыполнениеФункцииНаСервере
+#КонецОбласти // etrn_src_vo3_CommonModule_ВыполнениеФункцииНаСервере
+
+#Область include_etrn_src_vo3_CommonModule_ЗначениеМетаданных
+#КонецОбласти // include_etrn_src_vo3_CommonModule_ЗначениеМетаданных
+
+#Область include_etrn_src_vo3_CommonModule_КартинкаИнтерфейса //&НаКлиенте
+#КонецОбласти // include_etrn_src_vo3_CommonModule_КартинкаИнтерфейса //&НаКлиенте
+
+#Область include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_Общие //&НаКлиенте
+#КонецОбласти // include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_Общие //&НаКлиенте
+
+#Область include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_СвойстваЭлементовФормы //&НаКлиенте
+#КонецОбласти // include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_СвойстваЭлементовФормы //&НаКлиенте
+
+#Область include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_ПредставлениеДанных //&НаКлиенте
+#КонецОбласти // include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_ПредставлениеДанных //&НаКлиенте
+
+#Область include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиент_ОповещенияОРезультатеВыполненияКоманды
+#КонецОбласти // include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиент_ОповещенияОРезультатеВыполненияКоманды
+
