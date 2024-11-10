@@ -1,0 +1,83 @@
+
+Функция МодульКода(ИмяМодуля)
+	
+	Возврат ЭтотОбъект;
+	
+КонецФункции
+
+Функция МодульКодаКлиент(ИмяМодуля)
+	
+	Возврат ЭтотОбъект;
+	
+КонецФункции
+
+Функция ОбъектОбработки()
+	
+	Возврат ЭтотОбъект;
+	
+КонецФункции
+
+Функция ПолучитьСтатусДокументаСБИС(КодСостояния) Экспорт
+	Возврат "";
+КонецФункции
+
+#Область include_etrn_src_vo3_CommonModule_ВыполнениеФункцииНаСервере
+#КонецОбласти // etrn_src_vo3_CommonModule_ВыполнениеФункцииНаСервере
+
+#Область include_etrn_src_vo3_CommonModule_ЗначениеМетаданных
+#КонецОбласти // include_etrn_src_vo3_CommonModule_ЗначениеМетаданных
+
+#Область include_etrn_base_Document_ТранспортнаяНакладная_DocumentMgr
+#КонецОбласти // include_etrn_base_Document_ТранспортнаяНакладная_DocumentMgr
+
+#Область include_etrn_base_CommonModule_ТНОбщегоНазначенияСервер_CommonModule
+#КонецОбласти // include_etrn_base_CommonModule_ТНОбщегоНазначенияСервер_CommonModule
+
+#Область include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_CommonModule
+#КонецОбласти // include_etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_CommonModule
+
+#Область include_etrn_base_InformationRegister_ДанныеТитулов_InformationRegisterMgr
+#КонецОбласти // include_etrn_base_InformationRegister_ДанныеТитулов_InformationRegisterMgr
+
+#Область include_etrn_base_CommonModule_ТНВыгрузкаСервер_CommonModule
+#КонецОбласти // include_etrn_base_CommonModule_ТНВыгрузкаСервер_CommonModule
+
+#Область include_etrn_base_CommonModule_ТНЗагрузкаСервер_CommonModule
+#КонецОбласти // include_etrn_base_CommonModule_ТНЗагрузкаСервер_CommonModule
+
+#Область include_etrn_base_Enum_ВладелецОбъектаОтгрузки_Enum
+#КонецОбласти // include_etrn_base_Enum_ВладелецОбъектаОтгрузки_Enum
+
+#Область include_etrn_base_Enum_ГруппыУпаковки_Enum
+#КонецОбласти // include_etrn_base_Enum_ГруппыУпаковки_Enum
+
+#Область include_etrn_base_Enum_КлассыОпасностиГрузов_Enum
+#КонецОбласти // include_etrn_base_Enum_КлассыОпасностиГрузов_Enum
+
+#Область include_etrn_base_Enum_КодыОграниченийПроездаЧерезТуннели_Enum
+#КонецОбласти // include_etrn_base_Enum_КодыОграниченийПроездаЧерезТуннели_Enum
+
+#Область include_etrn_base_Enum_МетодОпределенияМассы_Enum
+#КонецОбласти // include_etrn_base_Enum_МетодОпределенияМассы_Enum
+
+#Область include_etrn_base_Enum_Направление_Enum
+#КонецОбласти // include_etrn_base_Enum_Направление_Enum
+
+#Область include_etrn_base_Enum_РолиКонтрагентов_Enum
+#КонецОбласти // include_etrn_base_Enum_РолиКонтрагентов_Enum
+
+#Область include_etrn_base_Enum_ТипТитулаЭтрН_Enum
+#КонецОбласти // include_etrn_base_Enum_ТипТитулаЭтрН_Enum
+
+#Область include_etrn_base_Enum_ТипыВладенияТС_Enum
+#КонецОбласти // include_etrn_base_Enum_ТипыВладенияТС_Enum
+
+#Область include_etrn_base_Catalog_ВидыУпаковки_CatalogMgr
+#КонецОбласти // include_etrn_base_Catalog_ВидыУпаковки_CatalogMgr
+
+#Область include_etrn_base_Catalog_ОпасныеГрузы_CatalogMgr
+#КонецОбласти // include_etrn_base_Catalog_ОпасныеГрузы_CatalogMgr
+
+#Область include_etrn_src_vo3_CommonModule_КартинкаИнтерфейса
+#КонецОбласти // include_etrn_src_vo3_CommonModule_КартинкаИнтерфейса
+
