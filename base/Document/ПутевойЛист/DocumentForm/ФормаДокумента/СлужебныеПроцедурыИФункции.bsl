@@ -1,0 +1,7 @@
+
+#Область include_etrn_base_CommonModule_ОпределениеМодуляКодаКлиент
+#КонецОбласти // include_etrn_base_CommonModule_ОпределениеМодуляКодаКлиент
+
+#Область include_etrn_base_CommonModule_ОпределениеМодуляКода
+#КонецОбласти // include_etrn_base_CommonModule_ОпределениеМодуляКода
+
