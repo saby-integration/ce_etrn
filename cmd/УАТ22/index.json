@@ -1,0 +1,34 @@
+{
+  "Catalog": { 
+  },
+  "Subsystem": {
+  },
+  "CommonModule": {
+    "ОбщегоНазначенияКлиентСервер": {
+      "CommonModule.json": "etrn\\src\\УАТ22\\CommonModule\\ОбщегоНазначенияКлиентСервер\\CommonModule.json",
+      "CommonModule.obj.bsl": "etrn\\src\\УАТ22\\CommonModule\\ОбщегоНазначенияКлиентСервер\\CommonModule.obj.bsl"
+    },
+    "РаботаСФайлами": {
+      "CommonModule.json": "etrn\\src\\УАТ22\\CommonModule\\РаботаСФайлами\\CommonModule.json",
+      "CommonModule.obj.bsl": "etrn\\base\\CommonModule\\РаботаСФайлами\\CommonModule.obj.bsl"
+    }
+  },
+  "CommonPicture": {
+  },	
+  "CommonCommand": {
+  },
+  "CommonForm": {
+  },
+  "DataProcessor": {
+  },
+  "InformationRegister": {
+  },
+  "Enum": {
+  },
+  "Constant": {
+  },
+  "FunctionalOption": {
+  },
+  "Document": {
+  }
+}
