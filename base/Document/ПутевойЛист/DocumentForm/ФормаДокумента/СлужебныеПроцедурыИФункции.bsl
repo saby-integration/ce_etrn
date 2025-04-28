@@ -1,0 +1,26 @@
+
+&НаКлиенте
+Процедура ЗаполнитьСтруктуруДокумента(Параметры = Неопределено) Экспорт
+	
+	Возврат;
+	
+КонецПроцедуры
+
+#Область includr_etrn_base_CommonModule_ОпределениеМодуляКодаКлиент
+#КонецОбласти // includr_etrn_base_CommonModule_ОпределениеМодуляКодаКлиент
+
+#Область includr_etrn_base_CommonModule_ОпределениеМодуляКода
+#КонецОбласти // includr_etrn_base_CommonModule_ОпределениеМодуляКода
+
+#Область include_etrn_base_CommonModule_Метаданные
+#КонецОбласти // include_etrn_base_CommonModule_Метаданные
+
+#Область include_etrn_base_CommonModule_МетаданныеКлиент
+#КонецОбласти // include_etrn_base_CommonModule_МетаданныеКлиент
+
+#Область include_etrn_base_CommonModule_ВыполнениеФункцииНаСервере 
+#КонецОбласти // include_etrn_base_CommonModule_ВыполнениеФункцииНаСервере
+
+#Область include_etrn_base_CommonModule_ЗначениеМетаданных
+#КонецОбласти // include_etrn_base_CommonModule_ЗначениеМетаданных
+
