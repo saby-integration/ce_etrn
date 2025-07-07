@@ -1,0 +1,587 @@
+{
+  "Области include": {
+    "etrn_src_vo2_Module": "etrn_base_empty",
+    "etrn_src_vo2_CommonForm_ВыборТиповЭПД_СлужебныеПроцедурыИФункции": "etrn_base_empty",
+    "etrn_src_vo2_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_Переменные": "etrn_base_empty",
+    "base_CommonForm_НастройкиЭПД_ОбновлениеВерсииОбработчикиСобытийФормы": "etrn_base_empty",
+    "base_CommonForm_НастройкиЭПД_НастройкиСопоставлений": "etrn_base_CommonForm_НастройкиЭПД_НастройкиСопоставлений"
+  },
+  "Catalog": {
+    "ВидыУпаковки": {
+      "Catalog.json": "etrn\\base\\Catalog\\ВидыУпаковки\\Catalog.json",
+      "Catalog.id.json": "etrn\\base\\Catalog\\ВидыУпаковки\\Catalog.id.json",
+      "Catalog.mgr.bsl": "etrn\\base\\Catalog\\ВидыУпаковки\\CatalogMgr.bsl",
+      "Catalog.obj.bsl": "etrn\\base\\Catalog\\ВидыУпаковки\\Catalog.obj.bsl",
+      "CatalogForm": {
+        "ФормаЭлемента": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\ВидыУпаковки\\CatalogForm\\ФормаЭлемента\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\ВидыУпаковки\\CatalogForm\\ФормаЭлемента\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\ВидыУпаковки\\CatalogForm\\ФормаЭлемента\\CatalogForm.id.json"
+        },
+        "ФормаСписка": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\ВидыУпаковки\\CatalogForm\\ФормаСписка\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\ВидыУпаковки\\CatalogForm\\ФормаСписка\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\ВидыУпаковки\\CatalogForm\\ФормаСписка\\CatalogForm.id.json",
+          "CatalogForm.obj.bsl": "etrn\\base\\Catalog\\ВидыУпаковки\\CatalogForm\\ФормаСписка\\CatalogForm.obj.bsl"
+        }
+      }
+    },
+    "ДокументыЭПД": {
+      "Catalog.json": "etrn\\base\\Catalog\\ДокументыЭПД\\Catalog.json",
+      "Catalog.id.json": "etrn\\base\\Catalog\\ДокументыЭПД\\Catalog.id.json",
+      "Catalog.mgr.bsl": "etrn\\base\\Catalog\\ДокументыЭПД\\Catalog.mgr.bsl",
+      "Catalog.obj.bsl": "etrn\\base\\Catalog\\ДокументыЭПД\\Catalog.obj.bsl",
+      "CatalogForm": {
+        "ФормаСписка": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаСписка\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаСписка\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаСписка\\CatalogForm.id.json"
+        },
+        "ФормаЭлемента": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаЭлемента\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаЭлемента\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаЭлемента\\CatalogForm.id.json",
+          "CatalogForm.obj.bsl": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаЭлемента\\CatalogForm.obj.bsl"
+        },
+        "ФормаВыбора": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаВыбора\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаВыбора\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаВыбора\\CatalogForm.id.json",
+          "CatalogForm.obj.bsl": "etrn\\base\\Catalog\\ДокументыЭПД\\CatalogForm\\ФормаВыбора\\CatalogForm.obj.bsl"
+        }
+      }
+    },
+    "ОпасныеГрузы": {
+      "Catalog.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\Catalog.json",
+      "Catalog.id.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\Catalog.id.json",
+      "Catalog.mgr.bsl": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogMgr.bsl",
+      "Catalog.obj.bsl": "etrn\\base\\Catalog\\ОпасныеГрузы\\Catalog.obj.bsl",
+      "CatalogForm": {
+        "ФормаЭлемента": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogForm\\ФормаЭлемента\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogForm\\ФормаЭлемента\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogForm\\ФормаЭлемента\\CatalogForm.id.json"
+        },
+        "ФормаСписка": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogForm\\ФормаСписка\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogForm\\ФормаСписка\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogForm\\ФормаСписка\\CatalogForm.id.json",
+          "CatalogForm.obj.bsl": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogForm\\ФормаСписка\\CatalogForm.obj.bsl"
+        },
+        "ФормаВыбора": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogForm\\ФормаВыбора\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogForm\\ФормаВыбора\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\ОпасныеГрузы\\CatalogForm\\ФормаВыбора\\CatalogForm.id.json"
+        }
+      }
+    },
+    "СторонаДокумента": {
+      "Catalog.json": "etrn\\base\\Catalog\\СторонаДокумента\\Catalog.json",
+      "Catalog.id.json": "etrn\\base\\Catalog\\СторонаДокумента\\Catalog.id.json",
+      "Catalog.mgr.bsl": "etrn\\base\\Catalog\\СторонаДокумента\\Catalog.mgr.bsl",
+      "Catalog.obj.bsl": "etrn\\base\\Catalog\\СторонаДокумента\\Catalog.obj.bsl",
+      "CatalogForm": {
+        "ФормаВыбора": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\СторонаДокумента\\CatalogForm\\ФормаВыбора\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\СторонаДокумента\\CatalogForm\\ФормаВыбора\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\СторонаДокумента\\CatalogForm\\ФормаВыбора\\CatalogForm.id.json"
+        },
+        "ФормаСписка": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\СторонаДокумента\\CatalogForm\\ФормаСписка\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\СторонаДокумента\\CatalogForm\\ФормаСписка\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\СторонаДокумента\\CatalogForm\\ФормаСписка\\CatalogForm.id.json"
+        },
+        "ФормаЭлемента": {
+          "CatalogForm.json": "etrn\\base\\Catalog\\СторонаДокумента\\CatalogForm\\ФормаЭлемента\\CatalogForm.json",
+          "CatalogForm.elem.json": "etrn\\base\\Catalog\\СторонаДокумента\\CatalogForm\\ФормаЭлемента\\CatalogForm.elem.json",
+          "CatalogForm.id.json": "etrn\\base\\Catalog\\СторонаДокумента\\CatalogForm\\ФормаЭлемента\\CatalogForm.id.json",
+          "CatalogForm.obj.bsl": "etrn\\base\\Catalog\\СторонаДокумента\\CatalogForm\\ФормаЭлемента\\CatalogForm.obj.bsl"
+        }
+      }
+    },
+    "ПутевойЛистПрисоединенныеФайлы": {
+      "Catalog.json": "etrn\\base\\Catalog\\ПутевойЛистПрисоединенныеФайлы\\Catalog.json",
+      "Catalog.id.json": "etrn\\base\\Catalog\\ПутевойЛистПрисоединенныеФайлы\\Catalog.id.json",
+      "Catalog.mgr.bsl": "etrn\\base\\Catalog\\ПутевойЛистПрисоединенныеФайлы\\Catalog.mgr.bsl",
+      "Catalog.obj.bsl": "etrn\\base\\Catalog\\ПутевойЛистПрисоединенныеФайлы\\Catalog.obj.bsl"
+    },  
+    "ТранспортнаяНакладнаяПрисоединенныеФайлы": {
+      "Catalog.json": "etrn\\base\\Catalog\\ТранспортнаяНакладнаяПрисоединенныеФайлы\\Catalog.json",
+      "Catalog.id.json": "etrn\\base\\Catalog\\ТранспортнаяНакладнаяПрисоединенныеФайлы\\Catalog.id.json",
+      "Catalog.mgr.bsl": "etrn\\base\\Catalog\\ТранспортнаяНакладнаяПрисоединенныеФайлы\\Catalog.mgr.bsl",
+      "Catalog.obj.bsl": "etrn\\base\\Catalog\\ТранспортнаяНакладнаяПрисоединенныеФайлы\\Catalog.obj.bsl"
+    },
+    "ЗаказНаПеревозкуПрисоединенныеФайлы": {
+      "Catalog.json": "etrn\\base\\Catalog\\ЗаказНаПеревозкуПрисоединенныеФайлы\\Catalog.json",
+      "Catalog.id.json": "etrn\\base\\Catalog\\ЗаказНаПеревозкуПрисоединенныеФайлы\\Catalog.id.json",
+      "Catalog.mgr.bsl": "etrn\\base\\Catalog\\ЗаказНаПеревозкуПрисоединенныеФайлы\\Catalog.mgr.bsl",
+      "Catalog.obj.bsl": "etrn\\base\\Catalog\\ЗаказНаПеревозкуПрисоединенныеФайлы\\Catalog.obj.bsl"
+    },
+    "Контрагенты": {
+      "Catalog.json": "etrn\\src\\УАТ22\\Catalog\\Контрагенты\\Catalog.json",
+      "Catalog.id.json": "etrn\\src\\УАТ22\\Catalog\\Контрагенты\\Catalog.id.json"
+    },
+    "Валюты": {
+      "Catalog.json": "etrn\\src\\УАТ22\\Catalog\\Валюты\\Catalog.json",
+      "Catalog.id.json": "etrn\\src\\УАТ22\\Catalog\\Валюты\\Catalog.id.json"
+    },
+    "ИдентификаторыОбъектовМетаданных": {
+      "Catalog.json": "etrn\\src\\УАТ22\\Catalog\\ИдентификаторыОбъектовМетаданных\\Catalog.json",
+      "Catalog.id.json": "etrn\\src\\УАТ22\\Catalog\\ИдентификаторыОбъектовМетаданных\\Catalog.id.json"
+    },
+    "Пользователи": {
+      "Catalog.json": "etrn\\src\\УАТ22\\Catalog\\Пользователи\\Catalog.json",
+      "Catalog.id.json": "etrn\\src\\УАТ22\\Catalog\\Пользователи\\Catalog.id.json"
+    },
+    "ТомаХраненияФайлов": {
+      "Catalog.json": "etrn\\src\\УАТ22\\Catalog\\ТомаХраненияФайлов\\Catalog.json",
+      "Catalog.id.json": "etrn\\src\\УАТ22\\Catalog\\ТомаХраненияФайлов\\Catalog.id.json"
+    },
+    "Организации": {
+      "Catalog.json": "etrn\\src\\УАТ22\\Catalog\\Организации\\Catalog.json",
+      "Catalog.id.json": "etrn\\src\\УАТ22\\Catalog\\Организации\\Catalog.id.json"
+    },
+    "Контрагенты": {
+      "Catalog.json": "etrn\\src\\УАТ22\\Catalog\\Контрагенты\\Catalog.json",
+      "Catalog.id.json": "etrn\\src\\УАТ22\\Catalog\\Контрагенты\\Catalog.id.json"
+    },
+    "ФизическиеЛица": {
+      "Catalog.json": "etrn\\src\\УАТ22\\Catalog\\ФизическиеЛица\\Catalog.json",
+      "Catalog.id.json": "etrn\\src\\УАТ22\\Catalog\\ФизическиеЛица\\Catalog.id.json"
+    }  
+  },
+  "CommonCommand": {
+    "НастройкиЭПД": {
+      "CommonCommand.json": "etrn\\base\\CommonCommand\\НастройкиЭПД\\CommonCommand.json",
+      "CommonCommand.id.json": "etrn\\base\\CommonCommand\\НастройкиЭПД\\CommonCommand.id.json",
+      "CommonCommand.obj.bsl": "etrn\\base\\CommonCommand\\НастройкиЭПД\\CommonCommand.obj.bsl"
+    },
+    "ОткрытьВСБИС": {
+      "CommonCommand.json": "etrn\\base\\CommonCommand\\ОткрытьВСБИС\\CommonCommand.json",
+      "CommonCommand.id.json": "etrn\\base\\CommonCommand\\ОткрытьВСБИС\\CommonCommand.id.json",
+      "CommonCommand.obj.bsl": "etrn\\base\\CommonCommand\\ОткрытьВСБИС\\CommonCommand.obj.bsl"
+    },
+    "ПрисоединенныеФайлы": {
+      "CommonCommand.json": "etrn\\base\\CommonCommand\\ПрисоединенныеФайлы\\CommonCommand.json",
+      "CommonCommand.id.json": "etrn\\base\\CommonCommand\\ПрисоединенныеФайлы\\CommonCommand.id.json",
+      "CommonCommand.obj.bsl": "etrn\\base\\CommonCommand\\ПрисоединенныеФайлы\\CommonCommand.obj.bsl"
+    }
+  },
+  "CommonForm": {
+    "ОтветственныйЭПД": {
+      "CommonForm.json": "etrn\\base\\CommonForm\\ОтветственныйЭПД\\CommonForm.json",
+      "CommonForm.id.json": "etrn\\base\\CommonForm\\ОтветственныйЭПД\\CommonForm.id.json",
+      "CommonForm.elem.json": "etrn\\base\\CommonForm\\ОтветственныйЭПД\\CommonForm.elem.json",
+      "CommonForm.obj.bsl": "etrn\\base\\CommonForm\\ОтветственныйЭПД\\CommonForm.obj.bsl"
+    },
+    "ВыборТиповЭПД": {
+      "CommonForm.json": "etrn\\base\\CommonForm\\ВыборТиповЭПД\\CommonForm.json",
+      "CommonForm.id.json": "etrn\\base\\CommonForm\\ВыборТиповЭПД\\CommonForm.id.json",
+      "CommonForm.elem.json": "etrn\\base\\CommonForm\\ВыборТиповЭПД\\CommonForm.elem.json",
+      "CommonForm.obj.bsl": "etrn\\base\\CommonForm\\ВыборТиповЭПД\\CommonForm.obj.bsl"
+    },
+    "НастройкиЭПД": {
+      "CommonForm.json": "etrn\\base\\CommonForm\\НастройкиЭПД\\CommonForm.json",
+      "CommonForm.id.json": "etrn\\base\\CommonForm\\НастройкиЭПД\\CommonForm.id.json",
+      "CommonForm.elem.json": "etrn\\base\\CommonForm\\НастройкиЭПД\\CommonForm.elem.json",
+      "CommonForm.obj.bsl": "etrn\\base\\CommonForm\\НастройкиЭПД\\CommonForm.obj.bsl"
+    },
+    "ТранспортноеСредствоЭПД": {
+      "CommonForm.json": "etrn\\base\\CommonForm\\ТранспортноеСредствоЭПД\\CommonForm.json",
+      "CommonForm.id.json": "etrn\\base\\CommonForm\\ТранспортноеСредствоЭПД\\CommonForm.id.json",
+      "CommonForm.elem.json": "etrn\\base\\CommonForm\\ТранспортноеСредствоЭПД\\CommonForm.elem.json",
+      "CommonForm.obj.bsl": "etrn\\base\\CommonForm\\ТранспортноеСредствоЭПД\\CommonForm.obj.bsl"
+    },
+    "ОрганизацииЭПД": {
+      "CommonForm.json": "etrn\\base\\CommonForm\\ОрганизацииЭПД\\CommonForm.json",
+      "CommonForm.id.json": "etrn\\base\\CommonForm\\ОрганизацииЭПД\\CommonForm.id.json",
+      "CommonForm.elem.json": "etrn\\base\\CommonForm\\ОрганизацииЭПД\\CommonForm.elem.json",
+      "CommonForm.obj.bsl": "etrn\\base\\CommonForm\\ОрганизацииЭПД\\CommonForm.obj.bsl"
+    },
+    "НастройкиПериодаЭПД": {
+      "CommonForm.json": "etrn\\base\\CommonForm\\НастройкиПериодаЭПД\\CommonForm.json",
+      "CommonForm.id.json": "etrn\\base\\CommonForm\\НастройкиПериодаЭПД\\CommonForm.id.json",
+      "CommonForm.elem.json": "etrn\\base\\CommonForm\\НастройкиПериодаЭПД\\CommonForm.elem.json",
+      "CommonForm.obj.bsl": "etrn\\base\\CommonForm\\НастройкиПериодаЭПД\\CommonForm.obj.bsl"
+    },
+    "ИныеПолучателиДокументаЭПД": {
+      "CommonForm.json": "etrn\\base\\CommonForm\\ИныеПолучателиДокументаЭПД\\CommonForm.json",
+      "CommonForm.id.json": "etrn\\base\\CommonForm\\ИныеПолучателиДокументаЭПД\\CommonForm.id.json",
+      "CommonForm.elem.json": "etrn\\base\\CommonForm\\ИныеПолучателиДокументаЭПД\\CommonForm.elem.json",
+      "CommonForm.obj.bsl": "etrn\\base\\CommonForm\\ИныеПолучателиДокументаЭПД\\CommonForm.obj.bsl"
+    }
+  },
+  "CommonModule": {
+    "РаботаСПрисоединеннымиФайламиПовтИсп": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\РаботаСПрисоединеннымиФайламиПовтИсп\\CommonModule.json",
+      "CommonModule.id.json": "etrn\\base\\CommonModule\\РаботаСПрисоединеннымиФайламиПовтИсп\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "etrn\\base\\CommonModule\\РаботаСПрисоединеннымиФайламиПовтИсп\\CommonModule.obj.bsl"
+    },
+    "ТНОбщегоНазначенияСервер": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\ТНОбщегоНазначенияСервер\\CommonModule.json",
+      "CommonModule.id.json": "etrn\\base\\CommonModule\\ТНОбщегоНазначенияСервер\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "etrn\\base\\CommonModule\\ТНОбщегоНазначенияСервер\\CommonModule.bsl"
+    },
+    "ТНОбщегоНазначенияКлиент": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\ТНОбщегоНазначенияКлиент\\CommonModule.json",
+      "CommonModule.id.json": "etrn\\base\\CommonModule\\ТНОбщегоНазначенияКлиент\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "etrn\\base\\CommonModule\\ТНОбщегоНазначенияКлиент\\CommonModule.bsl"
+    },
+    "ТНЗагрузкаСервер": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\ТНЗагрузкаСервер\\CommonModule.json",
+      "CommonModule.id.json": "etrn\\base\\CommonModule\\ТНЗагрузкаСервер\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "etrn\\base\\CommonModule\\ТНЗагрузкаСервер\\CommonModule.bsl"
+    },
+    "ТНВыгрузкаСервер": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\ТНВыгрузкаСервер\\CommonModule.json",
+      "CommonModule.id.json": "etrn\\base\\CommonModule\\ТНВыгрузкаСервер\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "etrn\\base\\CommonModule\\ТНВыгрузкаСервер\\CommonModule.bsl"
+    },
+    "ТНОбщегоНазначенияКлиентСервер": {
+      "CommonModule.json": "etrn\\base\\CommonModule\\ТНОбщегоНазначенияКлиентСервер\\CommonModule.json",
+      "CommonModule.id.json": "etrn\\base\\CommonModule\\ТНОбщегоНазначенияКлиентСервер\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "etrn\\base\\CommonModule\\ТНОбщегоНазначенияКлиентСервер\\CommonModule.bsl"
+    },
+    "РаботаСФайламиСлужебный": {
+      "CommonModule.json": "etrn\\src\\УАТ22\\CommonModule\\РаботаСФайламиСлужебный\\CommonModule.json",
+      "CommonModule.id.json": "etrn\\src\\УАТ22\\CommonModule\\РаботаСФайламиСлужебный\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "etrn\\base\\CommonModule\\РаботаСФайламиСлужебный\\CommonModule.obj.bsl"
+    },
+    "РаботаСФайламиСлужебныйВызовСервера": {
+      "CommonModule.json": "etrn\\src\\УАТ22\\CommonModule\\РаботаСФайламиСлужебныйВызовСервера\\CommonModule.json",
+      "CommonModule.id.json": "etrn\\src\\УАТ22\\CommonModule\\РаботаСФайламиСлужебныйВызовСервера\\CommonModule.id.json",
+      "CommonModule.obj.bsl": "etrn\\src\\УАТ22\\CommonModule\\РаботаСФайламиСлужебныйВызовСервера\\CommonModule.obj.bsl"
+    }
+  },
+  "CommonPicture": {
+    "Телефон": {
+      "CommonPicture.bin": "etrn\\base\\CommonPicture\\Телефон\\CommonPicture.bin",
+      "CommonPicture.json": "etrn\\base\\CommonPicture\\Телефон\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\base\\CommonPicture\\Телефон\\CommonPicture.id.json"
+    },
+    "Часы": {
+      "CommonPicture.bin": "etrn\\base\\CommonPicture\\Часы\\CommonPicture.bin",
+      "CommonPicture.json": "etrn\\base\\CommonPicture\\Часы\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\base\\CommonPicture\\Часы\\CommonPicture.id.json"
+    },
+    "СостояниеЗавершеноПоложительно": {
+      "CommonPicture.bin": "etrn\\base\\CommonPicture\\СостояниеЗавершеноПоложительно\\CommonPicture.bin",
+      "CommonPicture.json": "etrn\\base\\CommonPicture\\СостояниеЗавершеноПоложительно\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\base\\CommonPicture\\СостояниеЗавершеноПоложительно\\CommonPicture.id.json"
+    },
+    "СостояниеЗавершеноОтрицательно": {
+      "CommonPicture.bin": "etrn\\base\\CommonPicture\\СостояниеЗавершеноОтрицательно\\CommonPicture.bin",
+      "CommonPicture.json": "etrn\\base\\CommonPicture\\СостояниеЗавершеноОтрицательно\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\base\\CommonPicture\\СостояниеЗавершеноОтрицательно\\CommonPicture.id.json"
+    },
+    "СостояниеОшибка": {
+      "CommonPicture.bin": "etrn\\base\\CommonPicture\\СостояниеОшибка\\CommonPicture.bin",
+      "CommonPicture.json": "etrn\\base\\CommonPicture\\СостояниеОшибка\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\base\\CommonPicture\\СостояниеОшибка\\CommonPicture.id.json"
+    },
+    "ИзменитьНастройки": {
+      "CommonPicture.bin": "etrn\\base\\CommonPicture\\ИзменитьНастройки\\CommonPicture.bin",
+      "CommonPicture.json": "etrn\\base\\CommonPicture\\ИзменитьНастройки\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\base\\CommonPicture\\ИзменитьНастройки\\CommonPicture.id.json"
+    },
+    "Направление": {
+      "CommonPicture.bin": "etrn\\base\\CommonPicture\\Направление\\CommonPicture.bin",
+      "CommonPicture.json": "etrn\\base\\CommonPicture\\Направление\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\base\\CommonPicture\\Направление\\CommonPicture.id.json"
+    },
+    "АктивныйТитул": {
+      "CommonPicture.bin": "etrn\\base\\CommonPicture\\АктивныйТитул\\CommonPicture.bin",
+      "CommonPicture.json": "etrn\\base\\CommonPicture\\АктивныйТитул\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\base\\CommonPicture\\АктивныйТитул\\CommonPicture.id.json"
+    },
+    "НеактивныйТитул": {
+      "CommonPicture.bin": "etrn\\base\\CommonPicture\\НеактивныйТитул\\CommonPicture.bin",
+      "CommonPicture.json": "etrn\\base\\CommonPicture\\НеактивныйТитул\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\base\\CommonPicture\\НеактивныйТитул\\CommonPicture.id.json"
+    },
+    "ТекущийТитул": {
+      "CommonPicture.bin": "etrn\\base\\CommonPicture\\ТекущийТитул\\CommonPicture.bin",
+      "CommonPicture.json": "etrn\\base\\CommonPicture\\ТекущийТитул\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\base\\CommonPicture\\ТекущийТитул\\CommonPicture.id.json"
+    },
+    "КоллекцияПиктограммФайлов": {
+      "CommonPicture.json": "etrn\\src\\УАТ22\\CommonPicture\\КоллекцияПиктограммФайлов\\CommonPicture.json",
+      "CommonPicture.id.json": "etrn\\src\\УАТ22\\CommonPicture\\КоллекцияПиктограммФайлов\\CommonPicture.id.json"
+    }
+  },
+  "DataProcessor": {
+    "РаботаСФайлами": {
+      "DataProcessor.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\DataProcessor.json",
+      "DataProcessor.id.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\DataProcessor.id.json",
+      "Form": {
+        "ПрисоединенныеФайлы": {
+          "Form.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.json",
+          "Form.id.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.id.json",
+          "Form.elem.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.elem.json",
+          "Form.obj.bsl": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ПрисоединенныеФайлы\\Form.obj.bsl"
+        },
+        "ПрисоединенныйФайл": {
+          "Form.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.json",
+          "Form.id.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.id.json",
+          "Form.elem.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.elem.json",
+          "Form.obj.bsl": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ПрисоединенныйФайл\\Form.obj.bsl"
+        },
+        "РедактированиеТекстовогоФайла": {
+          "Form.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.json",
+          "Form.id.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.id.json",
+          "Form.elem.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.elem.json",
+          "Form.obj.bsl": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\РедактированиеТекстовогоФайла\\Form.obj.bsl"
+        },
+        "ФормаВозвратаФайла": {
+          "Form.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.json",
+          "Form.id.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.id.json",
+          "Form.elem.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.elem.json",
+          "Form.obj.bsl": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ФормаВозвратаФайла\\Form.obj.bsl"
+        },
+        "ГруппаФайлов": {
+          "Form.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ГруппаФайлов\\Form.json",
+          "Form.id.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ГруппаФайлов\\Form.id.json",
+          "Form.elem.json": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ГруппаФайлов\\Form.elem.json",
+          "Form.obj.bsl": "etrn\\base\\DataProcessor\\РаботаСФайлами\\Form\\ГруппаФайлов\\Form.obj.bsl"
+        }
+      }
+    }
+  },
+  "Document": {
+    "ТранспортнаяНакладная": {
+      "Document.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\Document.json",
+      "Document.id.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\Document.id.json",
+      "Document.obj.bsl": "etrn\\base\\Document\\ТранспортнаяНакладная\\Document.obj.bsl",
+      "Document.mgr.bsl": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentMgr.bsl",
+      "DocumentForm": {
+        "ФормаДокумента": {
+          "DocumentForm.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\DocumentForm.json",
+          "DocumentForm.id.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\DocumentForm.id.json",
+          "DocumentForm.elem.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\DocumentForm.elem.json",
+          "DocumentForm.obj.bsl": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДокумента\\DocumentForm.obj.bsl"
+        },
+        "ФормаСписка": {
+          "DocumentForm.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаСписка\\DocumentForm.json",
+          "DocumentForm.id.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаСписка\\DocumentForm.id.json",
+          "DocumentForm.elem.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаСписка\\DocumentForm.elem.json",
+          "DocumentForm.obj.bsl": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаСписка\\DocumentForm.obj.bsl"
+        },
+        "ФормаДинамическихТитулов": {
+          "DocumentForm.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\DocumentForm.json",
+          "DocumentForm.id.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\DocumentForm.id.json",
+          "DocumentForm.elem.json": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\DocumentForm.elem.json",
+          "DocumentForm.obj.bsl": "etrn\\base\\Document\\ТранспортнаяНакладная\\DocumentForm\\ФормаДинамическихТитулов\\DocumentForm.obj.bsl"
+        }
+      }
+    },
+    "ПутевойЛист": {
+      "Document.json": "etrn\\base\\Document\\ПутевойЛист\\Document.json",
+      "Document.id.json": "etrn\\base\\Document\\ПутевойЛист\\Document.id.json",
+      "Document.obj.bsl": "etrn\\base\\Document\\ПутевойЛист\\Document.obj.bsl",
+      "Document.mgr.bsl": "etrn\\base\\Document\\ПутевойЛист\\Document.mgr.bsl",
+      "DocumentForm": {
+        "ФормаДокумента": {
+          "DocumentForm.json": "etrn\\base\\Document\\ПутевойЛист\\DocumentForm\\ФормаДокумента\\DocumentForm.json",
+          "DocumentForm.id.json": "etrn\\base\\Document\\ПутевойЛист\\DocumentForm\\ФормаДокумента\\DocumentForm.id.json",
+          "DocumentForm.elem.json": "etrn\\base\\Document\\ПутевойЛист\\DocumentForm\\ФормаДокумента\\DocumentForm.elem.json",
+          "DocumentForm.obj.bsl": "etrn\\base\\Document\\ПутевойЛист\\DocumentForm\\ФормаДокумента\\DocumentForm.obj.bsl"
+        },
+        "ФормаСписка": {
+          "DocumentForm.json": "etrn\\base\\Document\\ПутевойЛист\\DocumentForm\\ФормаСписка\\DocumentForm.json",
+          "DocumentForm.id.json": "etrn\\base\\Document\\ПутевойЛист\\DocumentForm\\ФормаСписка\\DocumentForm.id.json",
+          "DocumentForm.elem.json": "etrn\\base\\Document\\ПутевойЛист\\DocumentForm\\ФормаСписка\\DocumentForm.elem.json",
+          "DocumentForm.obj.bsl": "etrn\\base\\Document\\ПутевойЛист\\DocumentForm\\ФормаСписка\\DocumentForm.obj.bsl"
+        }
+      }
+    },
+    "ЗаказНаПеревозку": {
+      "Document.json": "etrn\\base\\Document\\ЗаказНаПеревозку\\Document.json",
+      "Document.id.json": "etrn\\base\\Document\\ЗаказНаПеревозку\\Document.id.json",
+      "Document.obj.bsl": "etrn\\base\\Document\\ЗаказНаПеревозку\\Document.obj.bsl",
+      "Document.mgr.bsl": "etrn\\base\\Document\\ЗаказНаПеревозку\\Document.mgr.bsl",
+      "DocumentForm": {
+        "ФормаДокумента": {
+          "DocumentForm.json": "etrn\\base\\Document\\ЗаказНаПеревозку\\DocumentForm\\ФормаДокумента\\DocumentForm.json",
+          "DocumentForm.id.json": "etrn\\base\\Document\\ЗаказНаПеревозку\\DocumentForm\\ФормаДокумента\\DocumentForm.id.json",
+          "DocumentForm.elem.json": "etrn\\base\\Document\\ЗаказНаПеревозку\\DocumentForm\\ФормаДокумента\\DocumentForm.elem.json",
+          "DocumentForm.obj.bsl": "etrn\\base\\Document\\ЗаказНаПеревозку\\DocumentForm\\ФормаДокумента\\DocumentForm.obj.bsl"
+        },
+        "ФормаСписка": {
+          "DocumentForm.json": "etrn\\base\\Document\\ЗаказНаПеревозку\\DocumentForm\\ФормаСписка\\DocumentForm.json",
+          "DocumentForm.id.json": "etrn\\base\\Document\\ЗаказНаПеревозку\\DocumentForm\\ФормаСписка\\DocumentForm.id.json",
+          "DocumentForm.elem.json": "etrn\\base\\Document\\ЗаказНаПеревозку\\DocumentForm\\ФормаСписка\\DocumentForm.elem.json",
+          "DocumentForm.obj.bsl": "etrn\\base\\Document\\ЗаказНаПеревозку\\DocumentForm\\ФормаСписка\\DocumentForm.obj.bsl"
+        }
+      }
+    }
+  },
+  "InformationRegister": {
+    "ДвоичныеДанныеФайлов": {
+      "InformationRegister.json": "etrn\\base\\InformationRegister\\ДвоичныеДанныеФайлов\\InformationRegister.json",
+      "InformationRegister.id.json": "etrn\\base\\InformationRegister\\ДвоичныеДанныеФайлов\\InformationRegister.id.json",
+      "InformationRegister.mgr.bsl": "etrn\\base\\InformationRegister\\ДвоичныеДанныеФайлов\\InformationRegister.mgr.bsl",
+      "InformationRegisterForm": {
+        "ФормаЗаписи": {
+          "InformationRegisterForm.json": "etrn\\base\\Document\\ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаЗаписи\\InformationRegisterForm.json",
+          "InformationRegisterForm.id.json": "etrn\\base\\Document\\ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаЗаписи\\InformationRegisterForm.id.json",
+          "InformationRegisterForm.elem.json": "etrn\\base\\Document\\ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаЗаписи\\InformationRegisterForm.elem.json",
+          "InformationRegisterForm.obj.bsl": "etrn\\base\\Document\\ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаЗаписи\\InformationRegisterForm.obj.bsl"
+        },
+        "ФормаСписка": {
+          "InformationRegisterForm.json": "etrn\\base\\Document\\ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаСписка\\InformationRegisterForm.json",
+          "InformationRegisterForm.id.json": "etrn\\base\\Document\\ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаСписка\\InformationRegisterForm.id.json",
+          "InformationRegisterForm.elem.json": "etrn\\base\\Document\\ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаСписка\\InformationRegisterForm.elem.json",
+          "InformationRegisterForm.obj.bsl": "etrn\\base\\Document\\ДвоичныеДанныеФайлов\\InformationRegisterForm\\ФормаСписка\\InformationRegisterForm.obj.bsl"
+        }
+      }
+    },
+    "ДанныеТитулов": {
+      "InformationRegister.json": "etrn\\base\\InformationRegister\\ДанныеТитулов\\InformationRegister.json",
+      "InformationRegister.id.json": "etrn\\base\\InformationRegister\\ДанныеТитулов\\InformationRegister.id.json",
+      "InformationRegister.mgr.bsl": "etrn\\base\\InformationRegister\\ДанныеТитулов\\InformationRegisterMgr.bsl"
+    }
+  },
+  "Subsystem": {
+    "SABY": {
+      "Subsystem.json": "src\\УАТ22\\Subsystem\\SABY\\Subsystem.json",
+      "Subsystem": {
+        "ЭПД": {
+          "Subsystem.json": "etrn\\src\\УАТ22\\Subsystem\\SABY\\Subsystem\\ЭПД\\Subsystem.json",
+          "Subsystem.id.json": "etrn\\src\\УАТ22\\Subsystem\\SABY\\Subsystem\\ЭПД\\Subsystem.id.json"
+        }
+      }
+    }
+  },
+  "Constant": {
+    "ИспользоватьЭПД": {
+      "Constant.json": "etrn\\base\\Constant\\ИспользоватьЭПД\\Constant.json",
+      "Constant.id.json": "etrn\\base\\Constant\\ИспользоватьЭПД\\Constant.id.json"
+    }
+  },
+  "Enum": {
+    "ВидыТС": {
+      "Enum.json": "etrn\\base\\Enum\\ВидыТС\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ВидыТС\\Enum.id.json"
+    },
+    "ВладелецОбъектаОтгрузки": {
+      "Enum.json": "etrn\\base\\Enum\\ВладелецОбъектаОтгрузки\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ВладелецОбъектаОтгрузки\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ВладелецОбъектаОтгрузки\\Enum.bsl"
+    },
+    "ГруппыУпаковки": {
+      "Enum.json": "etrn\\base\\Enum\\ГруппыУпаковки\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ГруппыУпаковки\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ГруппыУпаковки\\Enum.bsl"
+    },
+    "ДоступныеДействия": {
+      "Enum.json": "etrn\\base\\Enum\\ДоступныеДействия\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ДоступныеДействия\\Enum.id.json"
+    },
+    "КлассыОпасностиГрузов": {
+      "Enum.json": "etrn\\base\\Enum\\КлассыОпасностиГрузов\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\КлассыОпасностиГрузов\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\КлассыОпасностиГрузов\\Enum.bsl"
+    },
+    "КодыОграниченийПроездаЧерезТуннели": {
+      "Enum.json": "etrn\\base\\Enum\\КодыОграниченийПроездаЧерезТуннели\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\КодыОграниченийПроездаЧерезТуннели\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\КодыОграниченийПроездаЧерезТуннели\\Enum.bsl"
+    },
+    "МетодОпределенияМассы": {
+      "Enum.json": "etrn\\base\\Enum\\МетодОпределенияМассы\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\МетодОпределенияМассы\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\МетодОпределенияМассы\\Enum.bsl"
+    },
+    "Направление": {
+      "Enum.json": "etrn\\base\\Enum\\Направление\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\Направление\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\Направление\\Enum.bsl"
+    },
+    "РолиКонтрагентов": {
+      "Enum.json": "etrn\\base\\Enum\\РолиКонтрагентов\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\РолиКонтрагентов\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\РолиКонтрагентов\\Enum.bsl"
+    },
+    "ТипГруза": {
+      "Enum.json": "etrn\\base\\Enum\\ТипГруза\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ТипГруза\\Enum.id.json"
+    },
+    "ТипТитулаЭтрН": {
+      "Enum.json": "etrn\\base\\Enum\\ТипТитулаЭтрН\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ТипТитулаЭтрН\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ТипТитулаЭтрН\\Enum.bsl"
+    },
+    "ТипТитулаЭПЛ": {
+      "Enum.json": "etrn\\base\\Enum\\ТипТитулаЭПЛ\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ТипТитулаЭПЛ\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ТипТитулаЭПЛ\\Enum.obj.bsl"
+    },
+    "ТипыВладенияТС": {
+      "Enum.json": "etrn\\base\\Enum\\ТипыВладенияТС\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ТипыВладенияТС\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ТипыВладенияТС\\Enum.bsl"
+    },
+    "ТипыДокумента": {
+      "Enum.json": "etrn\\base\\Enum\\ТипыДокумента\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ТипыДокумента\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ТипыДокумента\\Enum.obj.bsl"
+    },
+    "ЮрФизЛицо": {
+      "Enum.json": "etrn\\base\\Enum\\ЮрФизЛицо\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ЮрФизЛицо\\Enum.id.json"
+    },
+    "ВидКоммерческойПеревозки": {
+      "Enum.json": "etrn\\base\\Enum\\ВидКоммерческойПеревозки\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ВидКоммерческойПеревозки\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ВидКоммерческойПеревозки\\Enum.obj.bsl"
+    },
+    "ВидПеревозки": {
+      "Enum.json": "etrn\\base\\Enum\\ВидПеревозки\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ВидПеревозки\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ВидПеревозки\\Enum.obj.bsl"
+    },
+    "ВидСообщенияЭПЛ": {
+      "Enum.json": "etrn\\base\\Enum\\ВидСообщенияЭПЛ\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ВидСообщенияЭПЛ\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ВидСообщенияЭПЛ\\Enum.obj.bsl"
+    },
+    "ПризнакНачалаРейса": {
+      "Enum.json": "etrn\\base\\Enum\\ПризнакНачалаРейса\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ПризнакНачалаРейса\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ПризнакНачалаРейса\\Enum.obj.bsl"
+    },
+    "РолиОтветственных": {
+      "Enum.json": "etrn\\base\\Enum\\РолиОтветственных\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\РолиОтветственных\\Enum.id.json"
+    },
+    "ТипДокументаЗнП": {
+      "Enum.json": "etrn\\base\\Enum\\ТипДокументаЗнП\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ТипДокументаЗнП\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ТипДокументаЗнП\\Enum.obj.bsl"
+    },
+    "ТипТитулаЗнП": {
+      "Enum.json": "etrn\\base\\Enum\\ТипТитулаЗнП\\Enum.json",
+      "Enum.id.json": "etrn\\base\\Enum\\ТипТитулаЗнП\\Enum.id.json",
+      "Enum.obj.bsl": "etrn\\base\\Enum\\ТипТитулаЗнП\\Enum.obj.bsl"
+    },
+    "СтатусыИзвлеченияТекстаФайлов": {
+      "Enum.json": "etrn\\src\\УАТ22\\Enum\\СтатусыИзвлеченияТекстаФайлов\\Enum.json",
+      "Enum.id.json": "etrn\\src\\УАТ22\\Enum\\СтатусыИзвлеченияТекстаФайлов\\Enum.id.json"
+    },
+    "ТипыКонтактнойИнформации": {
+      "Enum.json": "etrn\\src\\УАТ22\\Enum\\ТипыКонтактнойИнформации\\Enum.json",
+      "Enum.id.json": "etrn\\src\\УАТ22\\Enum\\ТипыКонтактнойИнформации\\Enum.id.json"
+    },
+    "ТипыХраненияФайлов": {
+      "Enum.json": "etrn\\src\\УАТ22\\Enum\\ТипыХраненияФайлов\\Enum.json",
+      "Enum.id.json": "etrn\\src\\УАТ22\\Enum\\ТипыХраненияФайлов\\Enum.id.json"
+    }
+  },
+  "FunctionalOption": {
+    "ИспользоватьЭПД": {
+      "FunctionalOption.json": "etrn\\src\\УАТ22\\FunctionalOption\\ИспользоватьЭПД\\FunctionalOption.json",
+      "FunctionalOption.id.json": "etrn\\src\\УАТ22\\FunctionalOption\\ИспользоватьЭПД\\FunctionalOption.id.json"
+    }
+  },
+  "version.bin": "version.bin" 
+}
