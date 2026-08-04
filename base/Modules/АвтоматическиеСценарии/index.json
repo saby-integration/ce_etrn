@@ -1,0 +1,233 @@
+{
+  "Области include": {},
+  "CommonCommand": {},
+  "CommandGroup": {},
+  "CommonForm": {},
+  "CommonPicture": {},
+  "ExchangePlan": {},
+  "ScheduledJob": {
+    "АвтоматическиеСценарииВыполнение": {
+      "ScheduledJob.json": "etrn/base/Modules/АвтоматическиеСценарии/ScheduledJob/АвтоматическиеСценарииВыполнение/ScheduledJob.json",
+      "ScheduledJob.id.json": "etrn/base/Modules/АвтоматическиеСценарии/ScheduledJob/АвтоматическиеСценарииВыполнение/ScheduledJob.id.json"
+    }
+  },  
+  "EventSubscription": {
+    "АвтоматическиеСценарииПриЗаписи": {
+      "EventSubscription.json": "etrn/base/Modules/АвтоматическиеСценарии/EventSubscription/АвтоматическиеСценарииПриЗаписи/EventSubscription.json",
+      "EventSubscription.id.json": "etrn/base/Modules/АвтоматическиеСценарии/EventSubscription/АвтоматическиеСценарииПриЗаписи/EventSubscription.id.json"
+    },
+    "АвтоматическиеСценарииОбработкаПроведения": {
+      "EventSubscription.json": "etrn/base/Modules/АвтоматическиеСценарии/EventSubscription/АвтоматическиеСценарииОбработкаПроведения/EventSubscription.json",
+      "EventSubscription.id.json": "etrn/base/Modules/АвтоматическиеСценарии/EventSubscription/АвтоматическиеСценарииОбработкаПроведения/EventSubscription.id.json"
+    },
+    "АвтоматическиеСценарииОбработкаУдаленияПроведения": {
+      "EventSubscription.json": "etrn/base/Modules/АвтоматическиеСценарии/EventSubscription/АвтоматическиеСценарииОбработкаУдаленияПроведения/EventSubscription.json",
+      "EventSubscription.id.json": "etrn/base/Modules/АвтоматическиеСценарии/EventSubscription/АвтоматическиеСценарииОбработкаУдаленияПроведения/EventSubscription.id.json"
+    }
+  },
+  "CommonModule": {
+	 "АвтоматическиеСценарииСервер": {
+         "CommonModule.json": "etrn/base/Modules/АвтоматическиеСценарии/CommonModule/АвтоматическиеСценарииСервер/CommonModule.json",
+         "CommonModule.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/CommonModule/АвтоматическиеСценарииСервер/CommonModule.obj.bsl",
+         "CommonModule.id.json": "etrn/base/Modules/АвтоматическиеСценарии/CommonModule/АвтоматическиеСценарииСервер/CommonModule.id.json"
+    },
+    "АвтоматическиеСценарииСерверСлужебный": {
+         "CommonModule.json": "etrn/base/Modules/АвтоматическиеСценарии/CommonModule/АвтоматическиеСценарииСерверСлужебный/CommonModule.json",
+         "CommonModule.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/CommonModule/АвтоматическиеСценарииСерверСлужебный/CommonModule.obj.bsl",
+         "CommonModule.id.json": "etrn/base/Modules/АвтоматическиеСценарии/CommonModule/АвтоматическиеСценарииСерверСлужебный/CommonModule.id.json"
+    },
+    "АвтоматическиеСценарииКлиентСервер": {
+         "CommonModule.json": "etrn/base/Modules/АвтоматическиеСценарии/CommonModule/АвтоматическиеСценарииКлиентСервер/CommonModule.json",
+         "CommonModule.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/CommonModule/АвтоматическиеСценарииКлиентСервер/CommonModule.obj.bsl",
+         "CommonModule.id.json": "etrn/base/Modules/АвтоматическиеСценарии/CommonModule/АвтоматическиеСценарииКлиентСервер/CommonModule.id.json"
+    }
+  },
+  "DataProcessor": {},
+  "DefinedType": {},
+  "Catalog": {
+    "АвтоматическиеСценарии": {
+      "Catalog.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/Catalog.json",
+      "Catalog.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/Catalog.id.json",
+      "Catalog.mgr.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogMgr.bsl",
+      "Catalog.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/Catalog.obj.bsl",
+      "CatalogForm": {
+        "ФормаЭлемента": {
+          "CatalogForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаЭлемента/CatalogForm.obj.bsl",
+          "CatalogForm.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаЭлемента/CatalogForm.json",
+          "CatalogForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаЭлемента/CatalogForm.id.json",
+          "CatalogForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаЭлемента/CatalogForm.elem.json"
+        },
+        "ФормаСписка": {
+          "CatalogForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаСписка/CatalogForm.obj.bsl",
+          "CatalogForm.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаСписка/CatalogForm.json",
+          "CatalogForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаСписка/CatalogForm.id.json",        
+          "CatalogForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаСписка/CatalogForm.elem.json"
+        },
+        "ФормаВыбораОснования": {
+          "CatalogForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаВыбораОснования/CatalogForm.obj.bsl",
+          "CatalogForm.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаВыбораОснования/CatalogForm.json",
+          "CatalogForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаВыбораОснования/CatalogForm.id.json",        
+          "CatalogForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogForm/ФормаВыбораОснования/CatalogForm.elem.json"
+        }
+      },
+      "CatalogCommand":{
+        "ОткрытьЖурнал": {
+          "CatalogCommand.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogCommand/ОткрытьЖурнал/CatalogCommand.id.json",
+          "CatalogCommand.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogCommand/ОткрытьЖурнал/CatalogCommand.json",
+          "CatalogCommand.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogCommand/ОткрытьЖурнал/CatalogCommand.obj.bsl"
+        },
+        "ОткрытьФормуСписка": {
+          "CatalogCommand.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogCommand/ОткрытьФормуСписка/CatalogCommand.id.json",
+          "CatalogCommand.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogCommand/ОткрытьФормуСписка/CatalogCommand.json",
+          "CatalogCommand.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарии/CatalogCommand/ОткрытьФормуСписка/CatalogCommand.obj.bsl"
+        }
+      }
+    },
+    "АвтоматическиеСценарииДействия": {
+      "Catalog.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/Catalog.json",
+      "Catalog.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/Catalog.id.json",
+      "Catalog.mgr.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogMgr.bsl",
+      "Catalog.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/Catalog.obj.bsl",
+      "CatalogForm": {
+        "ФормаЭлемента": {
+          "CatalogForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаЭлемента/CatalogForm.obj.bsl",
+          "CatalogForm.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаЭлемента/CatalogForm.json",
+          "CatalogForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаЭлемента/CatalogForm.id.json",
+          "CatalogForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаЭлемента/CatalogForm.elem.json"
+        },
+        "ФормаСписка": {
+          "CatalogForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаСписка/CatalogForm.obj.bsl",
+          "CatalogForm.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаСписка/CatalogForm.json",
+          "CatalogForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаСписка/CatalogForm.id.json",        
+          "CatalogForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаСписка/CatalogForm.elem.json"
+        },
+        "ФормаВыбора": {
+          "CatalogForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаВыбора/CatalogForm.obj.bsl",
+          "CatalogForm.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаВыбора/CatalogForm.json",
+          "CatalogForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаВыбора/CatalogForm.id.json",        
+          "CatalogForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogForm/ФормаВыбора/CatalogForm.elem.json"
+        }
+      },
+      "CatalogCommand":{
+        "ОткрытьФормуСписка": {
+          "CatalogCommand.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogCommand/ОткрытьФормуСписка/CatalogCommand.id.json",
+          "CatalogCommand.json": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogCommand/ОткрытьФормуСписка/CatalogCommand.json",
+          "CatalogCommand.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Catalog/АвтоматическиеСценарииДействия/CatalogCommand/ОткрытьФормуСписка/CatalogCommand.obj.bsl"
+        }
+      }
+    }
+  },
+  "Document": {},
+  "InformationRegister": {
+    "АвтоматическиеСценарии": {
+      "InformationRegister.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegister.json",
+      "InformationRegister.id.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegister.id.json",
+      "InformationRegister.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegister.obj.bsl",
+      "InformationRegister.mgr.bsl": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegister.mgr.bsl",
+      "InformationRegisterForm": {
+        "ФормаЗаписи": {
+          "InformationRegisterForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegisterForm/ФормаЗаписи/InformationRegisterForm.obj.bsl",
+          "InformationRegisterForm.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegisterForm/ФормаЗаписи/InformationRegisterForm.json",
+          "InformationRegisterForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegisterForm/ФормаЗаписи/InformationRegisterForm.id.json",
+          "InformationRegisterForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegisterForm/ФормаЗаписи/InformationRegisterForm.elem.json"
+        },
+        "ФормаСписка": {
+          "InformationRegisterForm.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegisterForm/ФормаСписка/InformationRegisterForm.json",
+          "InformationRegisterForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegisterForm/ФормаСписка/InformationRegisterForm.id.json",
+          "InformationRegisterForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарии/InformationRegisterForm/ФормаСписка/InformationRegisterForm.elem.json"
+        }
+      }
+    },
+    "АвтоматическиеСценарииЖурнал": {
+      "InformationRegister.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegister.json",
+      "InformationRegister.id.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegister.id.json",
+      "InformationRegister.mgr.bsl": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegister.mgr.bsl",
+      "InformationRegisterForm": {
+        "ФормаЗаписи": {
+          "InformationRegisterForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegisterForm/ФормаЗаписи/InformationRegisterForm.obj.bsl",
+          "InformationRegisterForm.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegisterForm/ФормаЗаписи/InformationRegisterForm.json",
+          "InformationRegisterForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegisterForm/ФормаЗаписи/InformationRegisterForm.id.json",
+          "InformationRegisterForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegisterForm/ФормаЗаписи/InformationRegisterForm.elem.json"
+        },
+        "ФормаСписка": {
+          "InformationRegisterForm.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegisterForm/ФормаСписка/InformationRegisterForm.json",
+          "InformationRegisterForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegisterForm/ФормаСписка/InformationRegisterForm.id.json",
+          "InformationRegisterForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegisterForm/ФормаСписка/InformationRegisterForm.elem.json"
+        }
+      },
+      "InformationRegisterCommand":{
+        "ОткрытьФормуСписка": {
+          "InformationRegisterCommand.id.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegisterCommand/ОткрытьФормуСписка/InformationRegisterCommand.id.json",
+          "InformationRegisterCommand.json": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegisterCommand/ОткрытьФормуСписка/InformationRegisterCommand.json",
+          "InformationRegisterCommand.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/InformationRegister/АвтоматическиеСценарииЖурнал/InformationRegisterCommand/ОткрытьФормуСписка/InformationRegisterCommand.obj.bsl"
+        }
+      }
+    }
+  },
+  "Role": {},
+  "Subsystem": {},
+  "Constant": {},
+  "Enum": {
+    "АвтоматическиеСценарииСтатусыВыполнения": {
+      "Enum.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииСтатусыВыполнения/Enum.json",
+      "Enum.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииСтатусыВыполнения/Enum.id.json"
+    },
+    "АвтоматическиеСценарииВариантыВыполнения": {
+      "Enum.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииВариантыВыполнения/Enum.json",
+      "Enum.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииВариантыВыполнения/Enum.id.json"
+    },
+    "АвтоматическиеСценарииСобытия": {
+      "Enum.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииСобытия/Enum.json",
+      "Enum.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииСобытия/Enum.id.json",
+      "Enum.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииСобытия/Enum.obj.bsl"
+    },
+    "АвтоматическиеСценарииВидыЗапуска": {
+      "Enum.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииВидыЗапуска/Enum.json",
+      "Enum.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииВидыЗапуска/Enum.id.json"
+    },
+    "АвтоматическиеСценарииПредопределенныеДействия": {
+      "Enum.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Enum.json",
+      "Enum.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Enum.id.json",
+      "Enum.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Enum.obj.bsl",
+      "EnumForm":{
+        "Saby_ЗакрытиеФазыДокумента": {
+          "EnumForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ЗакрытиеФазыДокумента/EnumForm.obj.bsl",
+          "EnumForm.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ЗакрытиеФазыДокумента/EnumForm.json",
+          "EnumForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ЗакрытиеФазыДокумента/EnumForm.id.json",
+          "EnumForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ЗакрытиеФазыДокумента/EnumForm.elem.json"  
+        },
+        "Saby_ОтправкаЧерновика":{
+          "EnumForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ОтправкаЧерновика/EnumForm.obj.bsl",
+          "EnumForm.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ОтправкаЧерновика/EnumForm.json",
+          "EnumForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ОтправкаЧерновика/EnumForm.id.json",
+          "EnumForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ОтправкаЧерновика/EnumForm.elem.json"  
+        },
+        "Saby_ЗаполнениеДокументаЧерезРедакторСопоставлений": {
+          "EnumForm.obj.bsl": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ЗаполнениеДокументаЧерезРедакторСопоставлений/EnumForm.obj.bsl",
+          "EnumForm.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ЗаполнениеДокументаЧерезРедакторСопоставлений/EnumForm.json",
+          "EnumForm.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ЗаполнениеДокументаЧерезРедакторСопоставлений/EnumForm.id.json",
+          "EnumForm.elem.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/EnumForm/Saby_ЗаполнениеДокументаЧерезРедакторСопоставлений/EnumForm.elem.json"  
+        }
+      },
+      "Template": {
+        "Saby_ЗакрытиеФазыДокумента": {
+          "Template.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Template/Saby_ЗакрытиеФазыДокумента/Template.json",
+          "Template.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Template/Saby_ЗакрытиеФазыДокумента/Template.id.json",
+          "Template.txt": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Template/Saby_ЗакрытиеФазыДокумента/Template.txt"
+        },
+        "Saby_ОтправкаЧерновика": {
+          "Template.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Template/Saby_ОтправкаЧерновика/Template.json",
+          "Template.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Template/Saby_ОтправкаЧерновика/Template.id.json",
+          "Template.txt": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Template/Saby_ОтправкаЧерновика/Template.txt"
+        },
+        "Saby_ЗаполнениеДокументаЧерезРедакторСопоставлений": {
+          "Template.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Template/Saby_ЗаполнениеДокументаЧерезРедакторСопоставлений/Template.json",
+          "Template.id.json": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Template/Saby_ЗаполнениеДокументаЧерезРедакторСопоставлений/Template.id.json",
+          "Template.txt": "etrn/base/Modules/АвтоматическиеСценарии/Enum/АвтоматическиеСценарииПредопределенныеДействия/Template/Saby_ЗаполнениеДокументаЧерезРедакторСопоставлений/Template.txt"
+        }
+      }
+    }
+  },
+  "FunctionalOption": {},
+  "Language": {}
+}
