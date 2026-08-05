@@ -1,0 +1,144 @@
+{
+    "Области include":
+    {
+        "etrn_base_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_СлужебныеПроцедурыИФункции": "etrn_src_vo2_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_СлужебныеПроцедурыИФункции",
+        "etrn_base_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_СопроводительныеДокументы": "etrn_src_vo2_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_СопроводительныеДокументы",
+        "etrn_base_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_ПутевыеЛисты": "etrn_src_vo2_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_ПутевыеЛисты",
+        "etrn_base_Document_ТранспортнаяНакладная_DocumentForm_ФормаДинамическихТитулов_ДанныеДокументовЭПД": "etrn_src_vo2_Document_ТранспортнаяНакладная_DocumentForm_ФормаДинамическихТитулов_ДанныеДокументовЭПД",
+        "etrn_base_Document_ТранспортнаяНакладная_DocumentForm_ФормаДинамическихТитулов_СлужебныеПроцедурыИФункции": "etrn_src_vo2_Document_ТранспортнаяНакладная_DocumentForm_ФормаДинамическихТитулов_СлужебныеПроцедурыИФункции",
+        "etrn_base_Document_ТранспортнаяНакладная_МодульМенеджера_СлужебныйПрограммныйИнтерфейс_Инициализация": "etrn_src_vo2_Document_ТранспортнаяНакладная_МодульМенеджера_СлужебныйПрограммныйИнтерфейс_Инициализация",
+		"etrn_base_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_ПереопределяемыйФункционал_ДанныеЮрЛиц": "etrn_src_vo2_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_ПереопределяемыйФункционал_ДанныеЮрЛиц",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияСервер_ПодключаемыйФункционал_ФормированиеПечатнойФормы": "etrn_src_vo2_CommonModule_ТНОбщегоНазначенияСервер_ПодключаемыйФункционал_ФормированиеПечатнойФормы",
+        "etrn_base_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_ПодключаемыйФункционал": "etrn_src_vo2_Document_ТранспортнаяНакладная_DocumentForm_ФормаДокумента_ПодключаемыйФункционал",
+        "etrn_base_CommonModule_ОпределениеМодуляКода": "etrn_base_empty",
+        "etrn_base_CommonModule_ОпределениеМодуляКодаКлиент": "etrn_base_empty",
+        "etrn_base_CommonModule_ОпределениеМодуляКодаКлиентСервер": "etrn_base_empty",
+        "etrn_base_CommonModule_ВыполнениеФункцииНаСервере": "etrn_base_empty",
+        "etrn_base_CommonModule_ЗначениеМетаданных": "etrn_base_empty",
+        "etrn_base_CommonModule_ЗначениеПеречисления": "etrn_src_vo2_CommonModule_ЗначениеПеречисления",
+        "etrn_base_CommonModule_ОбъектОбработки": "etrn_base_empty",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияКлиент_ИмяФормыОбработки": "etrn_src_vo2_CommonModule_ИмяФормыОбработки",
+        "etrn_base_CommonForm_ОтветственныйЭПД_СлужебныеПроцедурыИФункции": "etrn_src_vo2_CommonForm_ОтветственныйЭПД_СлужебныеПроцедурыИФункции",
+        "etrn_base_CommonForm_ОрганизацииЭПД_СлужебныеПроцедурыИФункции": "etrn_src_vo2_CommonForm_ОрганизацииЭПД_СлужебныеПроцедурыИФункции",
+        "etrn_base_CommonForm_ТранспортноеСредствоЭПД_СлужебныеПроцедурыИФункции": "etrn_src_vo2_CommonForm_ТранспортноеСредствоЭПД_СлужебныеПроцедурыИФункции",
+        "etrn_base_CommonForm_ИныеПолучателиДокументаЭПД_СлужебныеПроцедурыИФункции": "etrn_src_vo2_CommonForm_ИныеПолучателиДокументаЭПД_СлужебныеПроцедурыИФункции",
+        "etrn_base_CommonForm_ИныеПолучателиДокументаЭПД_ПереопределяемыеПроцедурыИФункции": "etrn_src_vo2_CommonForm_ИныеПолучателиДокументаЭПД_ПереопределяемыеПроцедурыИФункции",
+        "etrn_src_vo2_CommonModule_ВыполнениеФункцииНаСервере": "etrn_base_CommonModule_ВыполнениеФункцииНаСервере",
+        "etrn_base_CommonModule_КартинкаИнтерфейса": "etrn_base_empty",
+        "etrn_base_Catalog_ОпасныеГрузы_СлужебныеПроцедурыИФункции": "etrn_src_vo2_Catalog_ОпасныеГрузы_СлужебныеПроцедурыИФункции",
+        "etrn_base_Catalog_ВидыУпаковки_СлужебныеПроцедурыИФункции": "etrn_src_vo2_Catalog_ВидыУпаковки_СлужебныеПроцедурыИФункции",
+        "etrn_base_InformationRegister_ДанныеТитулов_ПолучениеДанныхТитулов": "etrn_src_vo2_InformationRegister_ДанныеТитулов_ПолучениеДанныхТитулов",
+        "etrn_base_InformationRegister_ДанныеТитулов_СлужебныеПроцедурыИФункции": "etrn_src_vo2_InformationRegister_ДанныеТитулов_СлужебныеПроцедурыИФункции",
+        "core_base_Криптография_МенеджерыКриптографииКлиент": "core_base_Криптография_МенеджерыКриптографииКлиентОбработка",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_ЗаполнениеНаОснованииИНИ": "etrn_base_empty",
+		"etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_ДополнительныйФункционал_СлужебныйПрограммныйИнтерфейс": "etrn_src_vo2_CommonModule_ТНОбщегоНазначенияКлиентСервер_ДополнительныйФункционал_СлужебныйПрограммныйИнтерфейс",
+        "etrn_src_vo2_CommonModule_ТНОбщегоНазначенияКлиентСервер_ЗаполнениеНаОснованииИНИ": "etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_ЗаполнениеНаОснованииИНИ",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_РаботаСоСтроками": "etrn_src_vo2_CommonModule_ТНОбщегоНазначенияКлиентСервер_РаботаСоСтроками",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияКлиентСервер_ФайлВРасширении" : "etrn_base_empty",
+        "etrn_base_CommonModule_КартинкаИнтерфейсаКлиент": "etrn_base_empty",
+        "etrn_base_CommonModule_Метаданные": "etrn_base_empty",
+        "etrn_base_CommonModule_МетаданныеКлиент": "etrn_base_empty",
+        "etrn_base_CommonModule_МетаданныеКлиентСервер": "etrn_base_empty",
+        "etrn_src_vo2_CommonModule_Метаданные": "etrn_base_CommonModule_Метаданные",
+        "etrn_src_vo2_CommonModule_МетаданныеКлиент": "etrn_base_CommonModule_МетаданныеКлиент",
+        "etrn_src_vo2_CommonModule_МетаданныеКлиентСервер": "etrn_base_CommonModule_МетаданныеКлиентСервер",
+        "base_CommonForm_НастройкиЭПД_ОбновлениеВерсииОбработчикиСобытийФормы": "etrn_base_empty",
+        "base_CommonForm_НастройкиЭПД_НастройкиСопоставлений": "etrn_base_CommonForm_НастройкиЭПД_НастройкиСопоставлений",
+		"etrn_base_CommonModule_ТНЗагрузкаСервер_ИмяПродуктаЭПД": "etrn_src_vo2_CommonModule_ИмяПродуктаЭПД",
+		"etrn_base_CommonModule_ТНЗагрузкаСервер_СлужебныеПроцедурыИФункцииПереопределяемые": "etrn_src_vo2_CommonModule_ТНЗагрузкаСервер_СлужебныеПроцедурыИФункцииПереопределяемые",
+        "etrn_base_CommonModule_ТНЗагрузкаСервер_ПодключаемыйФункционал_ВзаимодействиеСОнлайном": "etrn_src_vo2_CommonModule_ТНЗагрузкаСервер_ПодключаемыйФункционал_ВзаимодействиеСОнлайном",
+        "etrn_base_CommonModule_ТНЗагрузкаСервер_ПодключаемыйФункционал_СлужебныеПроцедурыИФункции": "etrn_src_vo2_CommonModule_ТНЗагрузкаСервер_ПодключаемыйФункционал_СлужебныеПроцедурыИФункции",
+        "etrn_base_CommonModule_ТНВыгрузкаСервер_ПодключаемыйФункционал_СлужебныеПроцедурыИФункции": "etrn_src_vo2_CommonModule_ТНВыгрузкаСервер_ПодключаемыйФункционал_СлужебныеПроцедурыИФункции",
+        "etrn_base_CommonModule_ТНВыгрузкаСервер_ПодключаемыйФункционал_ПрограммныйИнтерфейс": "etrn_base_empty",
+        "etrn_base_CommonModule_ТНВыгрузкаСервер_ДополнительныйФункционал_ДополнительныеСведенияОснования": "etrn_src_vo2_CommonModule_ТНВыгрузкаСервер_ДополнительныйФункционал_ДополнительныеСведенияОснования",
+        "etrn_base_CommonModule_Record": "etrn_base_CommonModule_Record_CommonModule.obj",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияСервер_ЗаполнениеНаОснованииИНИ": "etrn_base_empty",
+        "etrn_src_vo2_CommonModule_ТНОбщегоНазначенияСервер_ЗаполнениеНаОснованииИНИ": "etrn_base_CommonModule_ТНОбщегоНазначенияСервер_ЗаполнениеНаОснованииИНИ",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияСервер_НастройкаФункционала_СлужебныйПрограммныйИнтерфейсПереопределяемый": "etrn_src_vo2_CommonModule_ТНОбщегоНазначенияСервер_НастройкаФункционала_СлужебныйПрограммныйИнтерфейсПереопределяемый",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияСервер_НастройкаФункционала_СлужебныйПрограммныйИнтерфейс": "etrn_base_empty",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияСервер_НастройкаФункционала_СлужебныеПроцедурыИФункции": "etrn_base_empty",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияКлиент_НастройкаФункционала_СлужебныйПрограммныйИнтерфейс": "etrn_base_empty",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияСервер_ДополнительныйФункционал_СлужебныйПрограммныйИнтерфейс": "etrn_src_vo2_CommonModule_ТНОбщегоНазначенияСервер_ДополнительныйФункционал_СлужебныйПрограммныйИнтерфейс",
+        "etrn_base_CommonModule_ТНОбщегоНазначенияКлиент_ОбработкаОповещенийПереопределяемый": "etrn_src_vo2_CommonModule_ТНОбщегоНазначенияКлиент_ОбработкаОповещенийПереопределяемый"
+    },
+    "Form":
+    {
+        "Saby_ТранспортнаяНакладная":
+        {
+            "Form.json": "etrn/src/vo2/Document/ТранспортнаяНакладная/DocumentForm/ФормаДокумента/Form.json",	       
+		    "Form.elem.json": "etrn/src/vo2/Document/ТранспортнаяНакладная/DocumentForm/ФормаДокумента/Form.elem.json",
+            "Form.id.json": "etrn/src/vo2/Document/ТранспортнаяНакладная/DocumentForm/ФормаДокумента/Form.id.json",
+            "Form.obj.bsl": "etrn/base/Document/ТранспортнаяНакладная/DocumentForm/ФормаДокумента/DocumentForm.obj.bsl"
+        },
+        "Saby_ТранспортнаяНакладнаяДТ":
+        {
+            "Form.json": "etrn/src/vo2/Document/ТранспортнаяНакладная/DocumentForm/ФормаДинамическихТитулов/Form.json",
+			"Form.elem.json": "etrn/base/Document/ТранспортнаяНакладная/DocumentForm/ФормаДинамическихТитулов/Form.elem.json",
+			"Form.id.json": "etrn/src/vo2/Document/ТранспортнаяНакладная/DocumentForm/ФормаДинамическихТитулов/Form.id.json",
+			"Form.obj.bsl": "etrn/base/Document/ТранспортнаяНакладная/DocumentForm/ФормаДинамическихТитулов/DocumentForm.obj.bsl"
+        },
+        "Saby_ОрганизацииЭПД":
+        {
+            "Form.json": "etrn/src/vo2/CommonForm/ОрганизацииЭПД/Form.json",		
+			"Form.elem.json": "etrn/base/CommonForm/ОрганизацииЭПД/Form.elem.json",
+			"Form.id.json": "etrn/src/vo2/CommonForm/ОрганизацииЭПД/Form.id.json",			
+            "Form.obj.bsl": "etrn/base/CommonForm/ОрганизацииЭПД/CommonForm.obj.bsl"
+        },
+        "Saby_ОтветственныйЭПД":
+        {
+            "Form.json": "etrn/src/vo2/CommonForm/ОтветственныйЭПД/Form.json",	
+			"Form.elem.json": "etrn/base/CommonForm/ОтветственныйЭПД/Form.elem.json",
+			"Form.id.json": "etrn/src/vo2/CommonForm/ОтветственныйЭПД/Form.id.json",		
+            "Form.obj.bsl": "etrn/base/CommonForm/ОтветственныйЭПД/CommonForm.obj.bsl"
+        },
+        "Saby_ВыборТиповЭПД":
+        {
+            "Form.json": "etrn/src/vo2/CommonForm/ВыборТиповЭПД/Form.json",	
+			"Form.elem.json": "etrn/base/CommonForm/ВыборТиповЭПД/Form.elem.json",
+			"Form.id.json": "etrn/src/vo2/CommonForm/ВыборТиповЭПД/Form.id.json",			
+            "Form.obj.bsl": "etrn/base/CommonForm/ВыборТиповЭПД/CommonForm.obj.bsl"
+        },
+        "Saby_ТранспортноеСредствоЭПД":
+        {
+            "Form.json": "etrn/src/vo2/CommonForm/ТранспортноеСредствоЭПД/Form.json",			
+			"Form.elem.json": "etrn/base/CommonForm/ТранспортноеСредствоЭПД/Form.elem.json",
+            "Form.id.json": "etrn/src/vo2/CommonForm/ТранспортноеСредствоЭПД/Form.id.json",			
+            "Form.obj.bsl": "etrn/base/CommonForm/ТранспортноеСредствоЭПД/CommonForm.obj.bsl"
+        },
+        "Saby_ДокументыЭПД":
+        {
+            "Form.json": "etrn/src/vo2/Form/ДокументыЭПД/Form.json",			
+			"Form.elem.json": "etrn/src/vo2/Form/ДокументыЭПД/Form.elem.json",
+			"Form.id.json": "etrn/src/vo2/Form/ДокументыЭПД/Form.id.json",			
+            "Form.obj.bsl": "etrn/src/vo2/Form/ДокументыЭПД/Form.obj.bsl"
+        },
+		"ОпасныйГрузЭПД":
+        {
+            "Form.json": "etrn/src/vo2/Form/ОпасныйГрузЭПД/Form.json",		
+			"Form.elem.json": "etrn/src/vo2/Form/ОпасныйГрузЭПД/Form.elem.json",
+			"Form.id.json": "etrn/src/vo2/Form/ОпасныйГрузЭПД/Form.id.json",		
+            "Form.obj.bsl": "etrn/src/vo2/Form/ОпасныйГрузЭПД/Form.obj.bsl"
+        },
+        "Раздел_ЭПД":
+        {
+            "Form.json": "etrn/src/vo2/Form/Раздел_ЭПД/Form.json",            			
+			"Form.elem.json": "etrn/src/vo2/Form/Раздел_ЭПД/Form.elem.json",
+			"Form.id.json": "etrn/src/vo2/Form/Раздел_ЭПД/Form.id.json",			
+			"Form.obj.bsl": "etrn/src/vo2/Form/Раздел_ЭПД/Form.obj.bsl"
+        },
+        "Saby_ИныеПолучателиДокументаЭПД":
+        {
+            "Form.json": "etrn/src/vo2/CommonForm/ИныеПолучателиДокументаЭПД/Form.json",			
+			"Form.elem.json": "etrn/base/CommonForm/ИныеПолучателиДокументаЭПД/Form.elem.json",
+			"Form.id.json": "etrn/src/vo2/CommonForm/ИныеПолучателиДокументаЭПД/Form.id.json",			
+            "Form.obj.bsl": "etrn/base/CommonForm/ИныеПолучателиДокументаЭПД/CommonForm.obj.bsl"
+        },
+        "НастройкиГруппировкиНоменклатуры":
+        {
+            "Form.json": "etrn/src/vo2/CommonForm/НастройкиГруппировкиНоменклатуры/Form.json",			
+			"Form.elem.json": "etrn/src/vo2/CommonForm/НастройкиГруппировкиНоменклатуры/Form.elem.json",
+			"Form.id.json": "etrn/src/vo2/CommonForm/НастройкиГруппировкиНоменклатуры/Form.id.json",			
+            "Form.obj.bsl": "etrn/src/vo2/CommonForm/НастройкиГруппировкиНоменклатуры/CommonForm.obj.bsl"
+        }
+    }
+}
