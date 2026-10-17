@@ -1,0 +1,53 @@
+{
+  "Области include": {},
+  "CommonCommand": {},
+  "CommandGroup": {},
+  "CommonForm": {},
+  "CommonPicture": {},
+  "ExchangePlan": {},
+  "EventSubscription": {},
+  "CommonModule": {},
+  "DataProcessor": {},
+  "DefinedType": {},
+  "Catalog": {
+    "ДополнительныеПоля": {
+      "Catalog.id.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/Catalog.id.json",
+      "Catalog.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/Catalog.json", 
+      "Catalog.mgr.bsl": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/Catalog.mgr.bsl", 
+      "Catalog.obj.bsl": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/Catalog.obj.bsl",
+      "CatalogForm": {
+        "ФормаЭлемента": {
+          "CatalogForm.obj.bsl": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/CatalogForm/ФормаЭлемента/CatalogForm.obj.bsl",
+          "CatalogForm.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/CatalogForm/ФормаЭлемента/CatalogForm.json",
+          "CatalogForm.id.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/CatalogForm/ФормаЭлемента/CatalogForm.id.json",
+          "CatalogForm.elem.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/CatalogForm/ФормаЭлемента/CatalogForm.elem.json"
+        },
+        "ФормаВыбора": {
+          "CatalogForm.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/CatalogForm/ФормаВыбора/CatalogForm.json",
+          "CatalogForm.id.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/CatalogForm/ФормаВыбора/CatalogForm.id.json",
+          "CatalogForm.elem.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/CatalogForm/ФормаВыбора/CatalogForm.elem.json"
+        },
+        "ФормаСписка": {
+          "CatalogForm.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/CatalogForm/ФормаСписка/CatalogForm.json",
+          "CatalogForm.id.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/CatalogForm/ФормаСписка/CatalogForm.id.json",
+          "CatalogForm.elem.json": "etrn/base/Modules/AdditionalFields/Catalog/ДополнительныеПоля/CatalogForm/ФормаСписка/CatalogForm.elem.json"
+        }
+      }
+    }
+  },
+  "Document": {},
+  "InformationRegister": {
+    "ЗначенияДополнительныхПолей": {
+     "InformationRegister.id.json": "etrn/base/Modules/AdditionalFields/InformationRegister/ЗначенияДополнительныхПолей/InformationRegister.id.json",
+     "InformationRegister.json": "etrn/base/Modules/AdditionalFields/InformationRegister/ЗначенияДополнительныхПолей/InformationRegister.json", 
+     "InformationRegister.mgr.bsl": "etrn/base/Modules/AdditionalFields/InformationRegister/ЗначенияДополнительныхПолей/InformationRegister.mgr.bsl"
+    }
+  },
+  "Role": {},
+  "Subsystem": {},
+  "Constant": {},
+  "Enum": {},
+  "FunctionalOption": {},
+  "ChartOfCharacteristicType": {},
+  "Language": {}
+}
