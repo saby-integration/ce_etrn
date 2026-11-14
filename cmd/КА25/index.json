@@ -1,0 +1,26 @@
+{
+  "Области include": {},
+  "Catalog": {},
+  "CommonCommand": {},
+  "CommonForm": {},
+  "CommonModule": {},
+  "CommonPicture": {},
+  "DataProcessor": {},
+  "Document": {
+    "ТранспортнаяНакладная": {
+      "*": "etrn\\base\\Document\\ТранспортнаяНакладная"
+    },
+    "ПутевойЛист": {
+      "*": "etrn\\base\\Document\\ПутевойЛист"
+    },
+    "ЗаказНаПеревозку": {
+      "*": "etrn\\base\\Document\\ЗаказНаПеревозку"
+    }
+  },
+  "InformationRegister": {},
+  "Subsystem": {},
+  "Constant": {},
+  "Enum": {},
+  "FunctionalOption": {},
+  "version.bin": "version.bin" 
+}
