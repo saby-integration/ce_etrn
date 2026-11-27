@@ -1,0 +1,36 @@
+{
+  "Области include": {},
+  "Catalog": {},
+  "CommonCommand": {},
+  "CommonForm": {},
+  "CommonModule": {},
+  "CommonPicture": {},
+  "DataProcessor": {},
+  "Document": {
+    "ТранспортнаяНакладная": {
+      "*": "etrn\\base\\Document\\ТранспортнаяНакладная"
+    },
+    "ПутевойЛист": {
+      "*": "etrn\\base\\Document\\ПутевойЛист"
+    },
+    "ЗаказНаПеревозку": {
+      "*": "etrn\\base\\Document\\ЗаказНаПеревозку"
+    }
+  },
+  "InformationRegister": {},
+  "Subsystem": {
+    "SABY": {
+      "Subsystem.json": "src\\УАТ22\\Subsystem\\SABY\\Subsystem.json",
+      "Subsystem": {
+        "ЭПД": {
+          "Subsystem.json": "etrn\\src\\УАТ22\\Subsystem\\SABY\\Subsystem\\ЭПД\\Subsystem.json",
+          "Subsystem.id.json": "etrn\\src\\УАТ22\\Subsystem\\SABY\\Subsystem\\ЭПД\\Subsystem.id.json"
+        }
+      }
+    }
+  },
+  "Constant": {},
+  "Enum": {},
+  "FunctionalOption": {},
+  "version.bin": "version.bin" 
+}
